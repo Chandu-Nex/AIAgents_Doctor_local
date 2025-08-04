@@ -1,0 +1,27 @@
+Pillow
+biopython
+fastapi
+langchain
+langchain-community
+langchain-huggingface
+langchain-pinecone
+langchain-text-splitters
+neo4j
+pubchempy
+pytesseract
+pytest
+python-dotenv
+sentence-transformers
+slowapi
+torch>=2.0.0
+transformers>=4.41.0
+uvicorn
+pinecone-client
+scikit-learn
+
+# File processing:
+python-docx
+pandas
+openpyxl
+PyMuPDF
+

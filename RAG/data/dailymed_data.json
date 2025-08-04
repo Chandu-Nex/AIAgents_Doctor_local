@@ -1,0 +1,1297 @@
+[
+  {
+    "name": "Urinary Tract Infections",
+    "symptoms": "Cough, Itching, Shortness of breath, Joint pain",
+    "cause": "Physical trauma",
+    "precautions": "Avoid allergens, Follow a balanced diet, Take medications as directed, Monitor symptoms closely",
+    "drugs": "Gabapentin, Gabapentin, Clindamycin",
+    "drug_descriptions": {
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Clindamycin": "Used for serious infections caused by susceptible anaerobic bacteria."
+    },
+    "description": "Urinary Tract Infections is a common condition often caused by physical trauma. It typically involves symptoms like cough, itching, shortness of breath, joint pain."
+  },
+  {
+    "name": "Insomnia",
+    "symptoms": "Fatigue, Muscle pain, Loss of appetite, Vomiting, Sneezing, Joint pain",
+    "cause": "Genetic predisposition",
+    "precautions": "Monitor symptoms closely, Get adequate rest, Maintain hygiene, Take medications as directed",
+    "drugs": "Methocarbamol, Varenicline, Ofloxacin",
+    "drug_descriptions": {
+      "Methocarbamol": "A muscle relaxant used for treating musculoskeletal pain and spasms.",
+      "Varenicline": "Used to help people stop smoking by reducing withdrawal symptoms.",
+      "Ofloxacin": "Antibiotic used primarily for eye infections caused by bacteria."
+    },
+    "description": "Insomnia is a common condition often caused by genetic predisposition. It typically involves symptoms like fatigue, muscle pain, loss of appetite, vomiting, sneezing, joint pain."
+  },
+  {
+    "name": "Urinary Tract Infections",
+    "symptoms": "Muscle pain, Dizziness, Rash, Shortness of breath, Vomiting, Loss of appetite, Fever",
+    "cause": "Physical trauma",
+    "precautions": "Avoid contact with infected individuals, Wash hands regularly, Take medications as directed, Follow a balanced diet",
+    "drugs": "Plavix, Naproxen, Gabapentin",
+    "drug_descriptions": {
+      "Plavix": "Prevents strokes and heart attacks in people with heart disease.",
+      "Naproxen": "NSAID for relieving pain, inflammation, and stiffness in arthritis and gout.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia."
+    },
+    "description": "Urinary Tract Infections is a common condition often caused by physical trauma. It typically involves symptoms like muscle pain, dizziness, rash, shortness of breath, vomiting, loss of appetite, fever."
+  },
+  {
+    "name": "Insomnia",
+    "symptoms": "Dizziness, Cough, Swelling, Joint pain, Redness, Vomiting, Fever",
+    "cause": "Genetic predisposition",
+    "precautions": "Monitor symptoms closely, Wash hands regularly, Regular exercise, Avoid contact with infected individuals",
+    "drugs": "Sertraline, Naproxen, Clindamycin",
+    "drug_descriptions": {
+      "Sertraline": "An SSRI used to treat depression, panic attacks, OCD, and PTSD.",
+      "Naproxen": "NSAID for relieving pain, inflammation, and stiffness in arthritis and gout.",
+      "Clindamycin": "Used for serious infections caused by susceptible anaerobic bacteria."
+    },
+    "description": "Insomnia is a common condition often caused by genetic predisposition. It typically involves symptoms like dizziness, cough, swelling, joint pain, redness, vomiting, fever."
+  },
+  {
+    "name": "Anxiety Disorders",
+    "symptoms": "Joint pain, Sore throat, Headache, Dizziness, Fatigue, Redness",
+    "cause": "Stress",
+    "precautions": "Take medications as directed, Complete prescribed medication course, Avoid allergens, Maintain hygiene",
+    "drugs": "Glimepiride, Clarithromycin, Mekinist",
+    "drug_descriptions": {
+      "Glimepiride": "An oral diabetes medicine that helps control blood sugar levels.",
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia.",
+      "Mekinist": "Targeted cancer therapy for melanoma and other BRAF mutation tumors."
+    },
+    "description": "Anxiety Disorders is a common condition often caused by stress. It typically involves symptoms like joint pain, sore throat, headache, dizziness, fatigue, redness."
+  },
+  {
+    "name": "Gastrointestinal Disorders",
+    "symptoms": "Redness, Sore throat, Fever, Loss of appetite, Shortness of breath, Nausea, Swelling",
+    "cause": "Genetic predisposition",
+    "precautions": "Regular exercise, Complete prescribed medication course, Monitor symptoms closely, Take medications as directed",
+    "drugs": "Desmopressin, Naproxen, Sertraline",
+    "drug_descriptions": {
+      "Desmopressin": "Used to treat diabetes insipidus and bedwetting.",
+      "Naproxen": "NSAID for relieving pain, inflammation, and stiffness in arthritis and gout.",
+      "Sertraline": "An SSRI used to treat depression, panic attacks, OCD, and PTSD."
+    },
+    "description": "Gastrointestinal Disorders is a common condition often caused by genetic predisposition. It typically involves symptoms like redness, sore throat, fever, loss of appetite, shortness of breath, nausea, swelling."
+  },
+  {
+    "name": "Hypertension",
+    "symptoms": "Nausea, Loss of appetite, Redness, Fever, Rash, Sore throat",
+    "cause": "Environmental allergens",
+    "precautions": "Monitor symptoms closely, Regular exercise, Avoid contact with infected individuals, Avoid allergens",
+    "drugs": "Gabapentin, Betadine, Amoxicillin",
+    "drug_descriptions": {
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Betadine": "Topical antiseptic for preventing infection in minor cuts and scrapes.",
+      "Amoxicillin": "Used to treat infections caused by bacteria including ear, nose, throat, skin, and urinary tract infections."
+    },
+    "description": "Hypertension is a common condition often caused by environmental allergens. It typically involves symptoms like nausea, loss of appetite, redness, fever, rash, sore throat."
+  },
+  {
+    "name": "Asthma",
+    "symptoms": "Headache, Itching, Joint pain, Fatigue, Redness, Sore throat",
+    "cause": "Bacterial infection",
+    "precautions": "Avoid allergens, Take medications as directed, Get adequate rest, Wash hands regularly",
+    "drugs": "Varenicline, Methocarbamol, Clarithromycin",
+    "drug_descriptions": {
+      "Varenicline": "Used to help people stop smoking by reducing withdrawal symptoms.",
+      "Methocarbamol": "A muscle relaxant used for treating musculoskeletal pain and spasms.",
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia."
+    },
+    "description": "Asthma is a common condition often caused by bacterial infection. It typically involves symptoms like headache, itching, joint pain, fatigue, redness, sore throat."
+  },
+  {
+    "name": "Allergic Rhinitis",
+    "symptoms": "Nausea, Swelling, Fever, Shortness of breath, Cough, Sore throat",
+    "cause": "Bacterial infection",
+    "precautions": "Wash hands regularly, Get adequate rest, Follow a balanced diet, Monitor symptoms closely",
+    "drugs": "Etodolac, Methocarbamol, Gabapentin",
+    "drug_descriptions": {
+      "Etodolac": "NSAID used to treat osteoarthritis, rheumatoid arthritis, and acute pain.",
+      "Methocarbamol": "A muscle relaxant used for treating musculoskeletal pain and spasms.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia."
+    },
+    "description": "Allergic Rhinitis is a common condition often caused by bacterial infection. It typically involves symptoms like nausea, swelling, fever, shortness of breath, cough, sore throat."
+  },
+  {
+    "name": "Urinary Tract Infections",
+    "symptoms": "Sore throat, Rash, Sneezing, Muscle pain",
+    "cause": "Stress",
+    "precautions": "Avoid allergens, Take medications as directed, Avoid contact with infected individuals, Get adequate rest",
+    "drugs": "Desmopressin, Naproxen, Methocarbamol",
+    "drug_descriptions": {
+      "Desmopressin": "Used to treat diabetes insipidus and bedwetting.",
+      "Naproxen": "NSAID for relieving pain, inflammation, and stiffness in arthritis and gout.",
+      "Methocarbamol": "A muscle relaxant used for treating musculoskeletal pain and spasms."
+    },
+    "description": "Urinary Tract Infections is a common condition often caused by stress. It typically involves symptoms like sore throat, rash, sneezing, muscle pain."
+  },
+  {
+    "name": "Chronic Bronchitis",
+    "symptoms": "Fatigue, Itching, Fever, Sneezing, Headache, Cough",
+    "cause": "Poor hygiene",
+    "precautions": "Follow a balanced diet, Maintain hygiene, Avoid allergens, Regular exercise",
+    "drugs": "Clarithromycin, Varenicline, Gabapentin",
+    "drug_descriptions": {
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia.",
+      "Varenicline": "Used to help people stop smoking by reducing withdrawal symptoms.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia."
+    },
+    "description": "Chronic Bronchitis is a common condition often caused by poor hygiene. It typically involves symptoms like fatigue, itching, fever, sneezing, headache, cough."
+  },
+  {
+    "name": "Migraine Headaches",
+    "symptoms": "Redness, Rash, Shortness of breath, Muscle pain, Itching, Diarrhea, Fatigue",
+    "cause": "Environmental allergens",
+    "precautions": "Maintain hygiene, Follow a balanced diet, Avoid allergens, Monitor symptoms closely",
+    "drugs": "Etodolac, Silicea, Mekinist",
+    "drug_descriptions": {
+      "Etodolac": "NSAID used to treat osteoarthritis, rheumatoid arthritis, and acute pain.",
+      "Silicea": "Homeopathic remedy sometimes used for skin issues and immune support.",
+      "Mekinist": "Targeted cancer therapy for melanoma and other BRAF mutation tumors."
+    },
+    "description": "Migraine Headaches is a common condition often caused by environmental allergens. It typically involves symptoms like redness, rash, shortness of breath, muscle pain, itching, diarrhea, fatigue."
+  },
+  {
+    "name": "Bacterial Infections",
+    "symptoms": "Vomiting, Nausea, Diarrhea, Dizziness, Cough, Sore throat",
+    "cause": "Viral infection",
+    "precautions": "Wash hands regularly, Follow a balanced diet, Complete prescribed medication course, Monitor symptoms closely",
+    "drugs": "Naproxen, Gabapentin, Ipratropium",
+    "drug_descriptions": {
+      "Naproxen": "NSAID for relieving pain, inflammation, and stiffness in arthritis and gout.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Ipratropium": "Relieves runny nose due to colds or allergies."
+    },
+    "description": "Bacterial Infections is a common condition often caused by viral infection. It typically involves symptoms like vomiting, nausea, diarrhea, dizziness, cough, sore throat."
+  },
+  {
+    "name": "Thyroid Disorders",
+    "symptoms": "Joint pain, Rash, Muscle pain, Swelling, Loss of appetite, Sore throat",
+    "cause": "Dietary imbalance",
+    "precautions": "Take medications as directed, Avoid allergens, Wash hands regularly, Monitor symptoms closely",
+    "drugs": "Amoxicillin, Clindamycin, Plavix",
+    "drug_descriptions": {
+      "Amoxicillin": "Used to treat infections caused by bacteria including ear, nose, throat, skin, and urinary tract infections.",
+      "Clindamycin": "Used for serious infections caused by susceptible anaerobic bacteria.",
+      "Plavix": "Prevents strokes and heart attacks in people with heart disease."
+    },
+    "description": "Thyroid Disorders is a common condition often caused by dietary imbalance. It typically involves symptoms like joint pain, rash, muscle pain, swelling, loss of appetite, sore throat."
+  },
+  {
+    "name": "Viral Infections",
+    "symptoms": "Dizziness, Redness, Swelling, Headache",
+    "cause": "Dietary imbalance",
+    "precautions": "Get adequate rest, Wash hands regularly, Regular exercise, Avoid contact with infected individuals",
+    "drugs": "Mekinist, Gabapentin, Betadine",
+    "drug_descriptions": {
+      "Mekinist": "Targeted cancer therapy for melanoma and other BRAF mutation tumors.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Betadine": "Topical antiseptic for preventing infection in minor cuts and scrapes."
+    },
+    "description": "Viral Infections is a common condition often caused by dietary imbalance. It typically involves symptoms like dizziness, redness, swelling, headache."
+  },
+  {
+    "name": "Skin Infections and Irritations",
+    "symptoms": "Swelling, Cough, Nausea, Vomiting, Diarrhea",
+    "cause": "Autoimmune disorder",
+    "precautions": "Get adequate rest, Maintain hygiene, Follow a balanced diet, Avoid allergens",
+    "drugs": "Clarithromycin, Gabapentin, Gabapentin",
+    "drug_descriptions": {
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia."
+    },
+    "description": "Skin Infections and Irritations is a common condition often caused by autoimmune disorder. It typically involves symptoms like swelling, cough, nausea, vomiting, diarrhea."
+  },
+  {
+    "name": "Depressive Disorders",
+    "symptoms": "Nausea, Sore throat, Muscle pain, Dizziness",
+    "cause": "Physical trauma",
+    "precautions": "Take medications as directed, Complete prescribed medication course, Avoid allergens, Get adequate rest",
+    "drugs": "Loratadine, Prednisone, Clindamycin",
+    "drug_descriptions": {
+      "Loratadine": "An antihistamine that reduces effects of natural histamine in the body.",
+      "Prednisone": "A corticosteroid used to treat inflammation and autoimmune conditions.",
+      "Clindamycin": "Used for serious infections caused by susceptible anaerobic bacteria."
+    },
+    "description": "Depressive Disorders is a common condition often caused by physical trauma. It typically involves symptoms like nausea, sore throat, muscle pain, dizziness."
+  },
+  {
+    "name": "Diabetes Mellitus",
+    "symptoms": "Nausea, Itching, Loss of appetite, Sneezing, Vomiting, Joint pain",
+    "cause": "Autoimmune disorder",
+    "precautions": "Monitor symptoms closely, Complete prescribed medication course, Maintain hygiene, Get adequate rest",
+    "drugs": "Clarithromycin, Methocarbamol, Naproxen",
+    "drug_descriptions": {
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia.",
+      "Methocarbamol": "A muscle relaxant used for treating musculoskeletal pain and spasms.",
+      "Naproxen": "NSAID for relieving pain, inflammation, and stiffness in arthritis and gout."
+    },
+    "description": "Diabetes Mellitus is a common condition often caused by autoimmune disorder. It typically involves symptoms like nausea, itching, loss of appetite, sneezing, vomiting, joint pain."
+  },
+  {
+    "name": "Diabetes Mellitus",
+    "symptoms": "Sneezing, Sore throat, Headache, Fatigue, Joint pain, Nausea",
+    "cause": "Viral infection",
+    "precautions": "Maintain hygiene, Get adequate rest, Avoid contact with infected individuals, Follow a balanced diet",
+    "drugs": "Gabapentin, Plavix, Glimepiride",
+    "drug_descriptions": {
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Plavix": "Prevents strokes and heart attacks in people with heart disease.",
+      "Glimepiride": "An oral diabetes medicine that helps control blood sugar levels."
+    },
+    "description": "Diabetes Mellitus is a common condition often caused by viral infection. It typically involves symptoms like sneezing, sore throat, headache, fatigue, joint pain, nausea."
+  },
+  {
+    "name": "Musculoskeletal Pain",
+    "symptoms": "Fever, Redness, Sore throat, Headache, Loss of appetite",
+    "cause": "Viral infection",
+    "precautions": "Maintain hygiene, Monitor symptoms closely, Take medications as directed, Get adequate rest",
+    "drugs": "Amoxicillin, Prednisone, Etodolac",
+    "drug_descriptions": {
+      "Amoxicillin": "Used to treat infections caused by bacteria including ear, nose, throat, skin, and urinary tract infections.",
+      "Prednisone": "A corticosteroid used to treat inflammation and autoimmune conditions.",
+      "Etodolac": "NSAID used to treat osteoarthritis, rheumatoid arthritis, and acute pain."
+    },
+    "description": "Musculoskeletal Pain is a common condition often caused by viral infection. It typically involves symptoms like fever, redness, sore throat, headache, loss of appetite."
+  },
+  {
+    "name": "Neuropathic Pain",
+    "symptoms": "Muscle pain, Fatigue, Sneezing, Diarrhea, Dizziness",
+    "cause": "Physical trauma",
+    "precautions": "Get adequate rest, Avoid allergens, Avoid contact with infected individuals, Regular exercise",
+    "drugs": "Plavix, Ipratropium, Methocarbamol",
+    "drug_descriptions": {
+      "Plavix": "Prevents strokes and heart attacks in people with heart disease.",
+      "Ipratropium": "Relieves runny nose due to colds or allergies.",
+      "Methocarbamol": "A muscle relaxant used for treating musculoskeletal pain and spasms."
+    },
+    "description": "Neuropathic Pain is a common condition often caused by physical trauma. It typically involves symptoms like muscle pain, fatigue, sneezing, diarrhea, dizziness."
+  },
+  {
+    "name": "Respiratory Infections",
+    "symptoms": "Redness, Loss of appetite, Itching, Rash, Cough",
+    "cause": "Autoimmune disorder",
+    "precautions": "Maintain hygiene, Monitor symptoms closely, Regular exercise, Wash hands regularly",
+    "drugs": "Gabapentin, Desmopressin, Methocarbamol",
+    "drug_descriptions": {
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Desmopressin": "Used to treat diabetes insipidus and bedwetting.",
+      "Methocarbamol": "A muscle relaxant used for treating musculoskeletal pain and spasms."
+    },
+    "description": "Respiratory Infections is a common condition often caused by autoimmune disorder. It typically involves symptoms like redness, loss of appetite, itching, rash, cough."
+  },
+  {
+    "name": "Joint Inflammation",
+    "symptoms": "Headache, Dizziness, Cough, Vomiting, Diarrhea, Fatigue, Swelling",
+    "cause": "Genetic predisposition",
+    "precautions": "Monitor symptoms closely, Follow a balanced diet, Take medications as directed, Avoid contact with infected individuals",
+    "drugs": "Varenicline, Betadine, Glimepiride",
+    "drug_descriptions": {
+      "Varenicline": "Used to help people stop smoking by reducing withdrawal symptoms.",
+      "Betadine": "Topical antiseptic for preventing infection in minor cuts and scrapes.",
+      "Glimepiride": "An oral diabetes medicine that helps control blood sugar levels."
+    },
+    "description": "Joint Inflammation is a common condition often caused by genetic predisposition. It typically involves symptoms like headache, dizziness, cough, vomiting, diarrhea, fatigue, swelling."
+  },
+  {
+    "name": "Allergic Rhinitis",
+    "symptoms": "Rash, Sore throat, Diarrhea, Loss of appetite, Redness, Vomiting, Dizziness",
+    "cause": "Autoimmune disorder",
+    "precautions": "Follow a balanced diet, Avoid contact with infected individuals, Maintain hygiene, Get adequate rest",
+    "drugs": "Ipratropium, Methocarbamol, Varenicline",
+    "drug_descriptions": {
+      "Ipratropium": "Relieves runny nose due to colds or allergies.",
+      "Methocarbamol": "A muscle relaxant used for treating musculoskeletal pain and spasms.",
+      "Varenicline": "Used to help people stop smoking by reducing withdrawal symptoms."
+    },
+    "description": "Allergic Rhinitis is a common condition often caused by autoimmune disorder. It typically involves symptoms like rash, sore throat, diarrhea, loss of appetite, redness, vomiting, dizziness."
+  },
+  {
+    "name": "Neuropathic Pain",
+    "symptoms": "Dizziness, Muscle pain, Rash, Redness, Loss of appetite, Cough",
+    "cause": "Poor hygiene",
+    "precautions": "Monitor symptoms closely, Maintain hygiene, Complete prescribed medication course, Wash hands regularly",
+    "drugs": "Plavix, Gabapentin, Mekinist",
+    "drug_descriptions": {
+      "Plavix": "Prevents strokes and heart attacks in people with heart disease.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Mekinist": "Targeted cancer therapy for melanoma and other BRAF mutation tumors."
+    },
+    "description": "Neuropathic Pain is a common condition often caused by poor hygiene. It typically involves symptoms like dizziness, muscle pain, rash, redness, loss of appetite, cough."
+  },
+  {
+    "name": "Joint Inflammation",
+    "symptoms": "Sneezing, Vomiting, Joint pain, Headache",
+    "cause": "Chronic inflammation",
+    "precautions": "Monitor symptoms closely, Avoid allergens, Wash hands regularly, Get adequate rest",
+    "drugs": "Gabapentin, Gabapentin, Methocarbamol",
+    "drug_descriptions": {
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Methocarbamol": "A muscle relaxant used for treating musculoskeletal pain and spasms."
+    },
+    "description": "Joint Inflammation is a common condition often caused by chronic inflammation. It typically involves symptoms like sneezing, vomiting, joint pain, headache."
+  },
+  {
+    "name": "Gastrointestinal Disorders",
+    "symptoms": "Itching, Cough, Dizziness, Vomiting",
+    "cause": "Physical trauma",
+    "precautions": "Avoid allergens, Get adequate rest, Complete prescribed medication course, Maintain hygiene",
+    "drugs": "Methocarbamol, Ofloxacin, Gabapentin",
+    "drug_descriptions": {
+      "Methocarbamol": "A muscle relaxant used for treating musculoskeletal pain and spasms.",
+      "Ofloxacin": "Antibiotic used primarily for eye infections caused by bacteria.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia."
+    },
+    "description": "Gastrointestinal Disorders is a common condition often caused by physical trauma. It typically involves symptoms like itching, cough, dizziness, vomiting."
+  },
+  {
+    "name": "Thyroid Disorders",
+    "symptoms": "Vomiting, Dizziness, Rash, Loss of appetite",
+    "cause": "Genetic predisposition",
+    "precautions": "Get adequate rest, Follow a balanced diet, Complete prescribed medication course, Avoid contact with infected individuals",
+    "drugs": "Clarithromycin, Methocarbamol, Sertraline",
+    "drug_descriptions": {
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia.",
+      "Methocarbamol": "A muscle relaxant used for treating musculoskeletal pain and spasms.",
+      "Sertraline": "An SSRI used to treat depression, panic attacks, OCD, and PTSD."
+    },
+    "description": "Thyroid Disorders is a common condition often caused by genetic predisposition. It typically involves symptoms like vomiting, dizziness, rash, loss of appetite."
+  },
+  {
+    "name": "Asthma",
+    "symptoms": "Sore throat, Headache, Rash, Shortness of breath",
+    "cause": "Dietary imbalance",
+    "precautions": "Avoid contact with infected individuals, Complete prescribed medication course, Monitor symptoms closely, Wash hands regularly",
+    "drugs": "Desmopressin, Varenicline, Betadine",
+    "drug_descriptions": {
+      "Desmopressin": "Used to treat diabetes insipidus and bedwetting.",
+      "Varenicline": "Used to help people stop smoking by reducing withdrawal symptoms.",
+      "Betadine": "Topical antiseptic for preventing infection in minor cuts and scrapes."
+    },
+    "description": "Asthma is a common condition often caused by dietary imbalance. It typically involves symptoms like sore throat, headache, rash, shortness of breath."
+  },
+  {
+    "name": "Insomnia",
+    "symptoms": "Swelling, Nausea, Dizziness, Cough",
+    "cause": "Chronic inflammation",
+    "precautions": "Wash hands regularly, Avoid allergens, Regular exercise, Maintain hygiene",
+    "drugs": "Amoxicillin, Gabapentin, Silicea",
+    "drug_descriptions": {
+      "Amoxicillin": "Used to treat infections caused by bacteria including ear, nose, throat, skin, and urinary tract infections.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Silicea": "Homeopathic remedy sometimes used for skin issues and immune support."
+    },
+    "description": "Insomnia is a common condition often caused by chronic inflammation. It typically involves symptoms like swelling, nausea, dizziness, cough."
+  },
+  {
+    "name": "Migraine Headaches",
+    "symptoms": "Dizziness, Loss of appetite, Diarrhea, Rash",
+    "cause": "Viral infection",
+    "precautions": "Follow a balanced diet, Regular exercise, Take medications as directed, Wash hands regularly",
+    "drugs": "Methocarbamol, Silicea, Glimepiride",
+    "drug_descriptions": {
+      "Methocarbamol": "A muscle relaxant used for treating musculoskeletal pain and spasms.",
+      "Silicea": "Homeopathic remedy sometimes used for skin issues and immune support.",
+      "Glimepiride": "An oral diabetes medicine that helps control blood sugar levels."
+    },
+    "description": "Migraine Headaches is a common condition often caused by viral infection. It typically involves symptoms like dizziness, loss of appetite, diarrhea, rash."
+  },
+  {
+    "name": "Joint Inflammation",
+    "symptoms": "Fatigue, Cough, Sore throat, Shortness of breath",
+    "cause": "Poor hygiene",
+    "precautions": "Get adequate rest, Avoid contact with infected individuals, Monitor symptoms closely, Follow a balanced diet",
+    "drugs": "Plavix, Naproxen, Glimepiride",
+    "drug_descriptions": {
+      "Plavix": "Prevents strokes and heart attacks in people with heart disease.",
+      "Naproxen": "NSAID for relieving pain, inflammation, and stiffness in arthritis and gout.",
+      "Glimepiride": "An oral diabetes medicine that helps control blood sugar levels."
+    },
+    "description": "Joint Inflammation is a common condition often caused by poor hygiene. It typically involves symptoms like fatigue, cough, sore throat, shortness of breath."
+  },
+  {
+    "name": "Migraine Headaches",
+    "symptoms": "Diarrhea, Headache, Fatigue, Rash",
+    "cause": "Physical trauma",
+    "precautions": "Follow a balanced diet, Avoid contact with infected individuals, Monitor symptoms closely, Avoid allergens",
+    "drugs": "Methocarbamol, Naproxen, Silicea",
+    "drug_descriptions": {
+      "Methocarbamol": "A muscle relaxant used for treating musculoskeletal pain and spasms.",
+      "Naproxen": "NSAID for relieving pain, inflammation, and stiffness in arthritis and gout.",
+      "Silicea": "Homeopathic remedy sometimes used for skin issues and immune support."
+    },
+    "description": "Migraine Headaches is a common condition often caused by physical trauma. It typically involves symptoms like diarrhea, headache, fatigue, rash."
+  },
+  {
+    "name": "Respiratory Infections",
+    "symptoms": "Shortness of breath, Muscle pain, Rash, Swelling, Redness",
+    "cause": "Chronic inflammation",
+    "precautions": "Maintain hygiene, Get adequate rest, Regular exercise, Take medications as directed",
+    "drugs": "Amoxicillin, Etodolac, Clarithromycin",
+    "drug_descriptions": {
+      "Amoxicillin": "Used to treat infections caused by bacteria including ear, nose, throat, skin, and urinary tract infections.",
+      "Etodolac": "NSAID used to treat osteoarthritis, rheumatoid arthritis, and acute pain.",
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia."
+    },
+    "description": "Respiratory Infections is a common condition often caused by chronic inflammation. It typically involves symptoms like shortness of breath, muscle pain, rash, swelling, redness."
+  },
+  {
+    "name": "Anxiety Disorders",
+    "symptoms": "Diarrhea, Loss of appetite, Muscle pain, Cough",
+    "cause": "Bacterial infection",
+    "precautions": "Take medications as directed, Get adequate rest, Wash hands regularly, Follow a balanced diet",
+    "drugs": "Sertraline, Gabapentin, Clarithromycin",
+    "drug_descriptions": {
+      "Sertraline": "An SSRI used to treat depression, panic attacks, OCD, and PTSD.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia."
+    },
+    "description": "Anxiety Disorders is a common condition often caused by bacterial infection. It typically involves symptoms like diarrhea, loss of appetite, muscle pain, cough."
+  },
+  {
+    "name": "Joint Inflammation",
+    "symptoms": "Dizziness, Nausea, Diarrhea, Loss of appetite, Itching, Headache, Rash",
+    "cause": "Autoimmune disorder",
+    "precautions": "Monitor symptoms closely, Follow a balanced diet, Avoid allergens, Regular exercise",
+    "drugs": "Desmopressin, Sertraline, Clindamycin",
+    "drug_descriptions": {
+      "Desmopressin": "Used to treat diabetes insipidus and bedwetting.",
+      "Sertraline": "An SSRI used to treat depression, panic attacks, OCD, and PTSD.",
+      "Clindamycin": "Used for serious infections caused by susceptible anaerobic bacteria."
+    },
+    "description": "Joint Inflammation is a common condition often caused by autoimmune disorder. It typically involves symptoms like dizziness, nausea, diarrhea, loss of appetite, itching, headache, rash."
+  },
+  {
+    "name": "Anxiety Disorders",
+    "symptoms": "Cough, Fatigue, Nausea, Headache, Sneezing",
+    "cause": "Stress",
+    "precautions": "Get adequate rest, Follow a balanced diet, Avoid allergens, Avoid contact with infected individuals",
+    "drugs": "Prednisone, Silicea, Mekinist",
+    "drug_descriptions": {
+      "Prednisone": "A corticosteroid used to treat inflammation and autoimmune conditions.",
+      "Silicea": "Homeopathic remedy sometimes used for skin issues and immune support.",
+      "Mekinist": "Targeted cancer therapy for melanoma and other BRAF mutation tumors."
+    },
+    "description": "Anxiety Disorders is a common condition often caused by stress. It typically involves symptoms like cough, fatigue, nausea, headache, sneezing."
+  },
+  {
+    "name": "Migraine Headaches",
+    "symptoms": "Sore throat, Vomiting, Loss of appetite, Dizziness",
+    "cause": "Environmental allergens",
+    "precautions": "Follow a balanced diet, Take medications as directed, Wash hands regularly, Complete prescribed medication course",
+    "drugs": "Desmopressin, Plavix, Ofloxacin",
+    "drug_descriptions": {
+      "Desmopressin": "Used to treat diabetes insipidus and bedwetting.",
+      "Plavix": "Prevents strokes and heart attacks in people with heart disease.",
+      "Ofloxacin": "Antibiotic used primarily for eye infections caused by bacteria."
+    },
+    "description": "Migraine Headaches is a common condition often caused by environmental allergens. It typically involves symptoms like sore throat, vomiting, loss of appetite, dizziness."
+  },
+  {
+    "name": "Respiratory Infections",
+    "symptoms": "Fatigue, Loss of appetite, Swelling, Shortness of breath, Muscle pain, Headache, Joint pain",
+    "cause": "Environmental allergens",
+    "precautions": "Complete prescribed medication course, Monitor symptoms closely, Take medications as directed, Wash hands regularly",
+    "drugs": "Etodolac, Gabapentin, Betadine",
+    "drug_descriptions": {
+      "Etodolac": "NSAID used to treat osteoarthritis, rheumatoid arthritis, and acute pain.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Betadine": "Topical antiseptic for preventing infection in minor cuts and scrapes."
+    },
+    "description": "Respiratory Infections is a common condition often caused by environmental allergens. It typically involves symptoms like fatigue, loss of appetite, swelling, shortness of breath, muscle pain, headache, joint pain."
+  },
+  {
+    "name": "Gastrointestinal Disorders",
+    "symptoms": "Headache, Itching, Dizziness, Loss of appetite, Muscle pain, Rash, Fatigue",
+    "cause": "Environmental allergens",
+    "precautions": "Avoid allergens, Follow a balanced diet, Complete prescribed medication course, Avoid contact with infected individuals",
+    "drugs": "Ofloxacin, Ipratropium, Plavix",
+    "drug_descriptions": {
+      "Ofloxacin": "Antibiotic used primarily for eye infections caused by bacteria.",
+      "Ipratropium": "Relieves runny nose due to colds or allergies.",
+      "Plavix": "Prevents strokes and heart attacks in people with heart disease."
+    },
+    "description": "Gastrointestinal Disorders is a common condition often caused by environmental allergens. It typically involves symptoms like headache, itching, dizziness, loss of appetite, muscle pain, rash, fatigue."
+  },
+  {
+    "name": "Viral Infections",
+    "symptoms": "Nausea, Dizziness, Joint pain, Rash",
+    "cause": "Environmental allergens",
+    "precautions": "Avoid allergens, Complete prescribed medication course, Maintain hygiene, Monitor symptoms closely",
+    "drugs": "Glimepiride, Silicea, Varenicline",
+    "drug_descriptions": {
+      "Glimepiride": "An oral diabetes medicine that helps control blood sugar levels.",
+      "Silicea": "Homeopathic remedy sometimes used for skin issues and immune support.",
+      "Varenicline": "Used to help people stop smoking by reducing withdrawal symptoms."
+    },
+    "description": "Viral Infections is a common condition often caused by environmental allergens. It typically involves symptoms like nausea, dizziness, joint pain, rash."
+  },
+  {
+    "name": "Urinary Tract Infections",
+    "symptoms": "Redness, Diarrhea, Rash, Dizziness",
+    "cause": "Viral infection",
+    "precautions": "Maintain hygiene, Get adequate rest, Follow a balanced diet, Take medications as directed",
+    "drugs": "Loratadine, Glimepiride, Prednisone",
+    "drug_descriptions": {
+      "Loratadine": "An antihistamine that reduces effects of natural histamine in the body.",
+      "Glimepiride": "An oral diabetes medicine that helps control blood sugar levels.",
+      "Prednisone": "A corticosteroid used to treat inflammation and autoimmune conditions."
+    },
+    "description": "Urinary Tract Infections is a common condition often caused by viral infection. It typically involves symptoms like redness, diarrhea, rash, dizziness."
+  },
+  {
+    "name": "Fungal Infections",
+    "symptoms": "Itching, Swelling, Sore throat, Headache, Fever, Nausea, Muscle pain",
+    "cause": "Autoimmune disorder",
+    "precautions": "Follow a balanced diet, Avoid contact with infected individuals, Get adequate rest, Regular exercise",
+    "drugs": "Sertraline, Gabapentin, Betadine",
+    "drug_descriptions": {
+      "Sertraline": "An SSRI used to treat depression, panic attacks, OCD, and PTSD.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Betadine": "Topical antiseptic for preventing infection in minor cuts and scrapes."
+    },
+    "description": "Fungal Infections is a common condition often caused by autoimmune disorder. It typically involves symptoms like itching, swelling, sore throat, headache, fever, nausea, muscle pain."
+  },
+  {
+    "name": "Respiratory Infections",
+    "symptoms": "Sneezing, Shortness of breath, Loss of appetite, Itching, Swelling",
+    "cause": "Environmental allergens",
+    "precautions": "Take medications as directed, Maintain hygiene, Regular exercise, Monitor symptoms closely",
+    "drugs": "Varenicline, Gabapentin, Glimepiride",
+    "drug_descriptions": {
+      "Varenicline": "Used to help people stop smoking by reducing withdrawal symptoms.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Glimepiride": "An oral diabetes medicine that helps control blood sugar levels."
+    },
+    "description": "Respiratory Infections is a common condition often caused by environmental allergens. It typically involves symptoms like sneezing, shortness of breath, loss of appetite, itching, swelling."
+  },
+  {
+    "name": "Migraine Headaches",
+    "symptoms": "Fatigue, Cough, Headache, Vomiting",
+    "cause": "Chronic inflammation",
+    "precautions": "Take medications as directed, Avoid contact with infected individuals, Get adequate rest, Wash hands regularly",
+    "drugs": "Gabapentin, Etodolac, Methocarbamol",
+    "drug_descriptions": {
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Etodolac": "NSAID used to treat osteoarthritis, rheumatoid arthritis, and acute pain.",
+      "Methocarbamol": "A muscle relaxant used for treating musculoskeletal pain and spasms."
+    },
+    "description": "Migraine Headaches is a common condition often caused by chronic inflammation. It typically involves symptoms like fatigue, cough, headache, vomiting."
+  },
+  {
+    "name": "Viral Infections",
+    "symptoms": "Sneezing, Headache, Rash, Diarrhea, Itching, Fever, Fatigue",
+    "cause": "Genetic predisposition",
+    "precautions": "Get adequate rest, Avoid contact with infected individuals, Follow a balanced diet, Complete prescribed medication course",
+    "drugs": "Amoxicillin, Clarithromycin, Silicea",
+    "drug_descriptions": {
+      "Amoxicillin": "Used to treat infections caused by bacteria including ear, nose, throat, skin, and urinary tract infections.",
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia.",
+      "Silicea": "Homeopathic remedy sometimes used for skin issues and immune support."
+    },
+    "description": "Viral Infections is a common condition often caused by genetic predisposition. It typically involves symptoms like sneezing, headache, rash, diarrhea, itching, fever, fatigue."
+  },
+  {
+    "name": "Viral Infections",
+    "symptoms": "Joint pain, Shortness of breath, Diarrhea, Itching, Vomiting, Swelling, Dizziness",
+    "cause": "Bacterial infection",
+    "precautions": "Avoid contact with infected individuals, Get adequate rest, Avoid allergens, Regular exercise",
+    "drugs": "Desmopressin, Ipratropium, Clarithromycin",
+    "drug_descriptions": {
+      "Desmopressin": "Used to treat diabetes insipidus and bedwetting.",
+      "Ipratropium": "Relieves runny nose due to colds or allergies.",
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia."
+    },
+    "description": "Viral Infections is a common condition often caused by bacterial infection. It typically involves symptoms like joint pain, shortness of breath, diarrhea, itching, vomiting, swelling, dizziness."
+  },
+  {
+    "name": "Musculoskeletal Pain",
+    "symptoms": "Cough, Loss of appetite, Headache, Sneezing, Fatigue",
+    "cause": "Chronic inflammation",
+    "precautions": "Complete prescribed medication course, Maintain hygiene, Avoid contact with infected individuals, Take medications as directed",
+    "drugs": "Desmopressin, Plavix, Loratadine",
+    "drug_descriptions": {
+      "Desmopressin": "Used to treat diabetes insipidus and bedwetting.",
+      "Plavix": "Prevents strokes and heart attacks in people with heart disease.",
+      "Loratadine": "An antihistamine that reduces effects of natural histamine in the body."
+    },
+    "description": "Musculoskeletal Pain is a common condition often caused by chronic inflammation. It typically involves symptoms like cough, loss of appetite, headache, sneezing, fatigue."
+  },
+  {
+    "name": "Fungal Infections",
+    "symptoms": "Fever, Rash, Nausea, Swelling, Vomiting",
+    "cause": "Stress",
+    "precautions": "Avoid contact with infected individuals, Get adequate rest, Follow a balanced diet, Avoid allergens",
+    "drugs": "Silicea, Betadine, Varenicline",
+    "drug_descriptions": {
+      "Silicea": "Homeopathic remedy sometimes used for skin issues and immune support.",
+      "Betadine": "Topical antiseptic for preventing infection in minor cuts and scrapes.",
+      "Varenicline": "Used to help people stop smoking by reducing withdrawal symptoms."
+    },
+    "description": "Fungal Infections is a common condition often caused by stress. It typically involves symptoms like fever, rash, nausea, swelling, vomiting."
+  },
+  {
+    "name": "Respiratory Infections",
+    "symptoms": "Loss of appetite, Nausea, Headache, Fatigue, Sore throat, Redness",
+    "cause": "Autoimmune disorder",
+    "precautions": "Maintain hygiene, Avoid allergens, Complete prescribed medication course, Get adequate rest",
+    "drugs": "Desmopressin, Varenicline, Gabapentin",
+    "drug_descriptions": {
+      "Desmopressin": "Used to treat diabetes insipidus and bedwetting.",
+      "Varenicline": "Used to help people stop smoking by reducing withdrawal symptoms.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia."
+    },
+    "description": "Respiratory Infections is a common condition often caused by autoimmune disorder. It typically involves symptoms like loss of appetite, nausea, headache, fatigue, sore throat, redness."
+  },
+  {
+    "name": "Thyroid Disorders",
+    "symptoms": "Swelling, Itching, Dizziness, Diarrhea, Sore throat, Redness",
+    "cause": "Autoimmune disorder",
+    "precautions": "Avoid allergens, Follow a balanced diet, Wash hands regularly, Take medications as directed",
+    "drugs": "Ipratropium, Betadine, Etodolac",
+    "drug_descriptions": {
+      "Ipratropium": "Relieves runny nose due to colds or allergies.",
+      "Betadine": "Topical antiseptic for preventing infection in minor cuts and scrapes.",
+      "Etodolac": "NSAID used to treat osteoarthritis, rheumatoid arthritis, and acute pain."
+    },
+    "description": "Thyroid Disorders is a common condition often caused by autoimmune disorder. It typically involves symptoms like swelling, itching, dizziness, diarrhea, sore throat, redness."
+  },
+  {
+    "name": "Hypertension",
+    "symptoms": "Rash, Dizziness, Muscle pain, Vomiting, Joint pain, Cough, Shortness of breath",
+    "cause": "Dietary imbalance",
+    "precautions": "Wash hands regularly, Complete prescribed medication course, Follow a balanced diet, Regular exercise",
+    "drugs": "Loratadine, Varenicline, Amoxicillin",
+    "drug_descriptions": {
+      "Loratadine": "An antihistamine that reduces effects of natural histamine in the body.",
+      "Varenicline": "Used to help people stop smoking by reducing withdrawal symptoms.",
+      "Amoxicillin": "Used to treat infections caused by bacteria including ear, nose, throat, skin, and urinary tract infections."
+    },
+    "description": "Hypertension is a common condition often caused by dietary imbalance. It typically involves symptoms like rash, dizziness, muscle pain, vomiting, joint pain, cough, shortness of breath."
+  },
+  {
+    "name": "Fungal Infections",
+    "symptoms": "Diarrhea, Muscle pain, Sneezing, Joint pain, Headache, Fever, Itching",
+    "cause": "Bacterial infection",
+    "precautions": "Complete prescribed medication course, Maintain hygiene, Avoid contact with infected individuals, Wash hands regularly",
+    "drugs": "Varenicline, Prednisone, Gabapentin",
+    "drug_descriptions": {
+      "Varenicline": "Used to help people stop smoking by reducing withdrawal symptoms.",
+      "Prednisone": "A corticosteroid used to treat inflammation and autoimmune conditions.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia."
+    },
+    "description": "Fungal Infections is a common condition often caused by bacterial infection. It typically involves symptoms like diarrhea, muscle pain, sneezing, joint pain, headache, fever, itching."
+  },
+  {
+    "name": "Asthma",
+    "symptoms": "Muscle pain, Itching, Shortness of breath, Rash",
+    "cause": "Bacterial infection",
+    "precautions": "Avoid contact with infected individuals, Maintain hygiene, Monitor symptoms closely, Get adequate rest",
+    "drugs": "Clarithromycin, Amoxicillin, Betadine",
+    "drug_descriptions": {
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia.",
+      "Amoxicillin": "Used to treat infections caused by bacteria including ear, nose, throat, skin, and urinary tract infections.",
+      "Betadine": "Topical antiseptic for preventing infection in minor cuts and scrapes."
+    },
+    "description": "Asthma is a common condition often caused by bacterial infection. It typically involves symptoms like muscle pain, itching, shortness of breath, rash."
+  },
+  {
+    "name": "Fungal Infections",
+    "symptoms": "Dizziness, Redness, Fever, Cough, Sore throat",
+    "cause": "Environmental allergens",
+    "precautions": "Monitor symptoms closely, Avoid allergens, Complete prescribed medication course, Get adequate rest",
+    "drugs": "Etodolac, Ipratropium, Glimepiride",
+    "drug_descriptions": {
+      "Etodolac": "NSAID used to treat osteoarthritis, rheumatoid arthritis, and acute pain.",
+      "Ipratropium": "Relieves runny nose due to colds or allergies.",
+      "Glimepiride": "An oral diabetes medicine that helps control blood sugar levels."
+    },
+    "description": "Fungal Infections is a common condition often caused by environmental allergens. It typically involves symptoms like dizziness, redness, fever, cough, sore throat."
+  },
+  {
+    "name": "Skin Infections and Irritations",
+    "symptoms": "Swelling, Fatigue, Nausea, Shortness of breath, Cough, Itching",
+    "cause": "Stress",
+    "precautions": "Monitor symptoms closely, Avoid contact with infected individuals, Regular exercise, Wash hands regularly",
+    "drugs": "Silicea, Clindamycin, Prednisone",
+    "drug_descriptions": {
+      "Silicea": "Homeopathic remedy sometimes used for skin issues and immune support.",
+      "Clindamycin": "Used for serious infections caused by susceptible anaerobic bacteria.",
+      "Prednisone": "A corticosteroid used to treat inflammation and autoimmune conditions."
+    },
+    "description": "Skin Infections and Irritations is a common condition often caused by stress. It typically involves symptoms like swelling, fatigue, nausea, shortness of breath, cough, itching."
+  },
+  {
+    "name": "Skin Infections and Irritations",
+    "symptoms": "Joint pain, Sneezing, Headache, Sore throat, Rash",
+    "cause": "Poor hygiene",
+    "precautions": "Maintain hygiene, Avoid allergens, Get adequate rest, Complete prescribed medication course",
+    "drugs": "Prednisone, Sertraline, Gabapentin",
+    "drug_descriptions": {
+      "Prednisone": "A corticosteroid used to treat inflammation and autoimmune conditions.",
+      "Sertraline": "An SSRI used to treat depression, panic attacks, OCD, and PTSD.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia."
+    },
+    "description": "Skin Infections and Irritations is a common condition often caused by poor hygiene. It typically involves symptoms like joint pain, sneezing, headache, sore throat, rash."
+  },
+  {
+    "name": "Musculoskeletal Pain",
+    "symptoms": "Rash, Headache, Cough, Fatigue",
+    "cause": "Chronic inflammation",
+    "precautions": "Take medications as directed, Get adequate rest, Monitor symptoms closely, Follow a balanced diet",
+    "drugs": "Sertraline, Glimepiride, Varenicline",
+    "drug_descriptions": {
+      "Sertraline": "An SSRI used to treat depression, panic attacks, OCD, and PTSD.",
+      "Glimepiride": "An oral diabetes medicine that helps control blood sugar levels.",
+      "Varenicline": "Used to help people stop smoking by reducing withdrawal symptoms."
+    },
+    "description": "Musculoskeletal Pain is a common condition often caused by chronic inflammation. It typically involves symptoms like rash, headache, cough, fatigue."
+  },
+  {
+    "name": "Gastrointestinal Disorders",
+    "symptoms": "Headache, Itching, Diarrhea, Cough, Loss of appetite, Rash, Dizziness",
+    "cause": "Stress",
+    "precautions": "Avoid allergens, Follow a balanced diet, Wash hands regularly, Complete prescribed medication course",
+    "drugs": "Varenicline, Gabapentin, Gabapentin",
+    "drug_descriptions": {
+      "Varenicline": "Used to help people stop smoking by reducing withdrawal symptoms.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia."
+    },
+    "description": "Gastrointestinal Disorders is a common condition often caused by stress. It typically involves symptoms like headache, itching, diarrhea, cough, loss of appetite, rash, dizziness."
+  },
+  {
+    "name": "Asthma",
+    "symptoms": "Diarrhea, Redness, Shortness of breath, Nausea",
+    "cause": "Bacterial infection",
+    "precautions": "Avoid contact with infected individuals, Take medications as directed, Complete prescribed medication course, Get adequate rest",
+    "drugs": "Methocarbamol, Sertraline, Glimepiride",
+    "drug_descriptions": {
+      "Methocarbamol": "A muscle relaxant used for treating musculoskeletal pain and spasms.",
+      "Sertraline": "An SSRI used to treat depression, panic attacks, OCD, and PTSD.",
+      "Glimepiride": "An oral diabetes medicine that helps control blood sugar levels."
+    },
+    "description": "Asthma is a common condition often caused by bacterial infection. It typically involves symptoms like diarrhea, redness, shortness of breath, nausea."
+  },
+  {
+    "name": "Gastrointestinal Disorders",
+    "symptoms": "Muscle pain, Vomiting, Itching, Fever, Dizziness",
+    "cause": "Physical trauma",
+    "precautions": "Monitor symptoms closely, Wash hands regularly, Maintain hygiene, Follow a balanced diet",
+    "drugs": "Glimepiride, Silicea, Ipratropium",
+    "drug_descriptions": {
+      "Glimepiride": "An oral diabetes medicine that helps control blood sugar levels.",
+      "Silicea": "Homeopathic remedy sometimes used for skin issues and immune support.",
+      "Ipratropium": "Relieves runny nose due to colds or allergies."
+    },
+    "description": "Gastrointestinal Disorders is a common condition often caused by physical trauma. It typically involves symptoms like muscle pain, vomiting, itching, fever, dizziness."
+  },
+  {
+    "name": "Insomnia",
+    "symptoms": "Muscle pain, Headache, Swelling, Redness, Dizziness",
+    "cause": "Viral infection",
+    "precautions": "Monitor symptoms closely, Regular exercise, Wash hands regularly, Avoid contact with infected individuals",
+    "drugs": "Sertraline, Varenicline, Gabapentin",
+    "drug_descriptions": {
+      "Sertraline": "An SSRI used to treat depression, panic attacks, OCD, and PTSD.",
+      "Varenicline": "Used to help people stop smoking by reducing withdrawal symptoms.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia."
+    },
+    "description": "Insomnia is a common condition often caused by viral infection. It typically involves symptoms like muscle pain, headache, swelling, redness, dizziness."
+  },
+  {
+    "name": "Skin Infections and Irritations",
+    "symptoms": "Diarrhea, Loss of appetite, Muscle pain, Itching, Dizziness",
+    "cause": "Poor hygiene",
+    "precautions": "Follow a balanced diet, Avoid allergens, Take medications as directed, Maintain hygiene",
+    "drugs": "Gabapentin, Prednisone, Mekinist",
+    "drug_descriptions": {
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Prednisone": "A corticosteroid used to treat inflammation and autoimmune conditions.",
+      "Mekinist": "Targeted cancer therapy for melanoma and other BRAF mutation tumors."
+    },
+    "description": "Skin Infections and Irritations is a common condition often caused by poor hygiene. It typically involves symptoms like diarrhea, loss of appetite, muscle pain, itching, dizziness."
+  },
+  {
+    "name": "Depressive Disorders",
+    "symptoms": "Redness, Headache, Loss of appetite, Vomiting, Rash, Sneezing, Joint pain",
+    "cause": "Genetic predisposition",
+    "precautions": "Take medications as directed, Wash hands regularly, Complete prescribed medication course, Avoid contact with infected individuals",
+    "drugs": "Methocarbamol, Gabapentin, Prednisone",
+    "drug_descriptions": {
+      "Methocarbamol": "A muscle relaxant used for treating musculoskeletal pain and spasms.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Prednisone": "A corticosteroid used to treat inflammation and autoimmune conditions."
+    },
+    "description": "Depressive Disorders is a common condition often caused by genetic predisposition. It typically involves symptoms like redness, headache, loss of appetite, vomiting, rash, sneezing, joint pain."
+  },
+  {
+    "name": "Neuropathic Pain",
+    "symptoms": "Itching, Diarrhea, Rash, Fever, Muscle pain",
+    "cause": "Poor hygiene",
+    "precautions": "Maintain hygiene, Follow a balanced diet, Take medications as directed, Avoid allergens",
+    "drugs": "Betadine, Mekinist, Loratadine",
+    "drug_descriptions": {
+      "Betadine": "Topical antiseptic for preventing infection in minor cuts and scrapes.",
+      "Mekinist": "Targeted cancer therapy for melanoma and other BRAF mutation tumors.",
+      "Loratadine": "An antihistamine that reduces effects of natural histamine in the body."
+    },
+    "description": "Neuropathic Pain is a common condition often caused by poor hygiene. It typically involves symptoms like itching, diarrhea, rash, fever, muscle pain."
+  },
+  {
+    "name": "Gastrointestinal Disorders",
+    "symptoms": "Rash, Fever, Swelling, Sneezing",
+    "cause": "Viral infection",
+    "precautions": "Avoid contact with infected individuals, Take medications as directed, Wash hands regularly, Get adequate rest",
+    "drugs": "Prednisone, Loratadine, Sertraline",
+    "drug_descriptions": {
+      "Prednisone": "A corticosteroid used to treat inflammation and autoimmune conditions.",
+      "Loratadine": "An antihistamine that reduces effects of natural histamine in the body.",
+      "Sertraline": "An SSRI used to treat depression, panic attacks, OCD, and PTSD."
+    },
+    "description": "Gastrointestinal Disorders is a common condition often caused by viral infection. It typically involves symptoms like rash, fever, swelling, sneezing."
+  },
+  {
+    "name": "Asthma",
+    "symptoms": "Nausea, Rash, Diarrhea, Loss of appetite, Cough, Joint pain, Muscle pain",
+    "cause": "Environmental allergens",
+    "precautions": "Avoid allergens, Maintain hygiene, Complete prescribed medication course, Follow a balanced diet",
+    "drugs": "Naproxen, Ipratropium, Gabapentin",
+    "drug_descriptions": {
+      "Naproxen": "NSAID for relieving pain, inflammation, and stiffness in arthritis and gout.",
+      "Ipratropium": "Relieves runny nose due to colds or allergies.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia."
+    },
+    "description": "Asthma is a common condition often caused by environmental allergens. It typically involves symptoms like nausea, rash, diarrhea, loss of appetite, cough, joint pain, muscle pain."
+  },
+  {
+    "name": "Diabetes Mellitus",
+    "symptoms": "Rash, Nausea, Swelling, Vomiting, Joint pain, Sore throat",
+    "cause": "Environmental allergens",
+    "precautions": "Monitor symptoms closely, Take medications as directed, Avoid contact with infected individuals, Avoid allergens",
+    "drugs": "Desmopressin, Amoxicillin, Clarithromycin",
+    "drug_descriptions": {
+      "Desmopressin": "Used to treat diabetes insipidus and bedwetting.",
+      "Amoxicillin": "Used to treat infections caused by bacteria including ear, nose, throat, skin, and urinary tract infections.",
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia."
+    },
+    "description": "Diabetes Mellitus is a common condition often caused by environmental allergens. It typically involves symptoms like rash, nausea, swelling, vomiting, joint pain, sore throat."
+  },
+  {
+    "name": "Hypertension",
+    "symptoms": "Shortness of breath, Headache, Nausea, Diarrhea, Fatigue, Dizziness, Sore throat",
+    "cause": "Environmental allergens",
+    "precautions": "Wash hands regularly, Avoid allergens, Get adequate rest, Follow a balanced diet",
+    "drugs": "Betadine, Naproxen, Loratadine",
+    "drug_descriptions": {
+      "Betadine": "Topical antiseptic for preventing infection in minor cuts and scrapes.",
+      "Naproxen": "NSAID for relieving pain, inflammation, and stiffness in arthritis and gout.",
+      "Loratadine": "An antihistamine that reduces effects of natural histamine in the body."
+    },
+    "description": "Hypertension is a common condition often caused by environmental allergens. It typically involves symptoms like shortness of breath, headache, nausea, diarrhea, fatigue, dizziness, sore throat."
+  },
+  {
+    "name": "Joint Inflammation",
+    "symptoms": "Dizziness, Redness, Diarrhea, Sore throat, Headache",
+    "cause": "Chronic inflammation",
+    "precautions": "Maintain hygiene, Complete prescribed medication course, Take medications as directed, Regular exercise",
+    "drugs": "Sertraline, Gabapentin, Methocarbamol",
+    "drug_descriptions": {
+      "Sertraline": "An SSRI used to treat depression, panic attacks, OCD, and PTSD.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Methocarbamol": "A muscle relaxant used for treating musculoskeletal pain and spasms."
+    },
+    "description": "Joint Inflammation is a common condition often caused by chronic inflammation. It typically involves symptoms like dizziness, redness, diarrhea, sore throat, headache."
+  },
+  {
+    "name": "Depressive Disorders",
+    "symptoms": "Cough, Joint pain, Fever, Vomiting, Nausea, Muscle pain",
+    "cause": "Physical trauma",
+    "precautions": "Follow a balanced diet, Avoid allergens, Take medications as directed, Avoid contact with infected individuals",
+    "drugs": "Sertraline, Varenicline, Ofloxacin",
+    "drug_descriptions": {
+      "Sertraline": "An SSRI used to treat depression, panic attacks, OCD, and PTSD.",
+      "Varenicline": "Used to help people stop smoking by reducing withdrawal symptoms.",
+      "Ofloxacin": "Antibiotic used primarily for eye infections caused by bacteria."
+    },
+    "description": "Depressive Disorders is a common condition often caused by physical trauma. It typically involves symptoms like cough, joint pain, fever, vomiting, nausea, muscle pain."
+  },
+  {
+    "name": "Chronic Bronchitis",
+    "symptoms": "Fever, Vomiting, Cough, Fatigue, Shortness of breath, Muscle pain, Nausea",
+    "cause": "Genetic predisposition",
+    "precautions": "Maintain hygiene, Follow a balanced diet, Regular exercise, Get adequate rest",
+    "drugs": "Silicea, Ofloxacin, Etodolac",
+    "drug_descriptions": {
+      "Silicea": "Homeopathic remedy sometimes used for skin issues and immune support.",
+      "Ofloxacin": "Antibiotic used primarily for eye infections caused by bacteria.",
+      "Etodolac": "NSAID used to treat osteoarthritis, rheumatoid arthritis, and acute pain."
+    },
+    "description": "Chronic Bronchitis is a common condition often caused by genetic predisposition. It typically involves symptoms like fever, vomiting, cough, fatigue, shortness of breath, muscle pain, nausea."
+  },
+  {
+    "name": "Fungal Infections",
+    "symptoms": "Sneezing, Diarrhea, Redness, Loss of appetite, Dizziness",
+    "cause": "Stress",
+    "precautions": "Get adequate rest, Wash hands regularly, Avoid contact with infected individuals, Follow a balanced diet",
+    "drugs": "Naproxen, Sertraline, Prednisone",
+    "drug_descriptions": {
+      "Naproxen": "NSAID for relieving pain, inflammation, and stiffness in arthritis and gout.",
+      "Sertraline": "An SSRI used to treat depression, panic attacks, OCD, and PTSD.",
+      "Prednisone": "A corticosteroid used to treat inflammation and autoimmune conditions."
+    },
+    "description": "Fungal Infections is a common condition often caused by stress. It typically involves symptoms like sneezing, diarrhea, redness, loss of appetite, dizziness."
+  },
+  {
+    "name": "Joint Inflammation",
+    "symptoms": "Itching, Sore throat, Nausea, Fever",
+    "cause": "Viral infection",
+    "precautions": "Maintain hygiene, Regular exercise, Avoid allergens, Wash hands regularly",
+    "drugs": "Ipratropium, Mekinist, Loratadine",
+    "drug_descriptions": {
+      "Ipratropium": "Relieves runny nose due to colds or allergies.",
+      "Mekinist": "Targeted cancer therapy for melanoma and other BRAF mutation tumors.",
+      "Loratadine": "An antihistamine that reduces effects of natural histamine in the body."
+    },
+    "description": "Joint Inflammation is a common condition often caused by viral infection. It typically involves symptoms like itching, sore throat, nausea, fever."
+  },
+  {
+    "name": "Diabetes Mellitus",
+    "symptoms": "Dizziness, Cough, Vomiting, Diarrhea",
+    "cause": "Stress",
+    "precautions": "Regular exercise, Wash hands regularly, Maintain hygiene, Monitor symptoms closely",
+    "drugs": "Clindamycin, Betadine, Sertraline",
+    "drug_descriptions": {
+      "Clindamycin": "Used for serious infections caused by susceptible anaerobic bacteria.",
+      "Betadine": "Topical antiseptic for preventing infection in minor cuts and scrapes.",
+      "Sertraline": "An SSRI used to treat depression, panic attacks, OCD, and PTSD."
+    },
+    "description": "Diabetes Mellitus is a common condition often caused by stress. It typically involves symptoms like dizziness, cough, vomiting, diarrhea."
+  },
+  {
+    "name": "Anxiety Disorders",
+    "symptoms": "Vomiting, Shortness of breath, Joint pain, Redness, Swelling, Rash",
+    "cause": "Stress",
+    "precautions": "Avoid contact with infected individuals, Complete prescribed medication course, Wash hands regularly, Regular exercise",
+    "drugs": "Clarithromycin, Betadine, Silicea",
+    "drug_descriptions": {
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia.",
+      "Betadine": "Topical antiseptic for preventing infection in minor cuts and scrapes.",
+      "Silicea": "Homeopathic remedy sometimes used for skin issues and immune support."
+    },
+    "description": "Anxiety Disorders is a common condition often caused by stress. It typically involves symptoms like vomiting, shortness of breath, joint pain, redness, swelling, rash."
+  },
+  {
+    "name": "Thyroid Disorders",
+    "symptoms": "Rash, Vomiting, Joint pain, Redness, Cough, Itching",
+    "cause": "Viral infection",
+    "precautions": "Get adequate rest, Maintain hygiene, Take medications as directed, Avoid contact with infected individuals",
+    "drugs": "Prednisone, Glimepiride, Gabapentin",
+    "drug_descriptions": {
+      "Prednisone": "A corticosteroid used to treat inflammation and autoimmune conditions.",
+      "Glimepiride": "An oral diabetes medicine that helps control blood sugar levels.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia."
+    },
+    "description": "Thyroid Disorders is a common condition often caused by viral infection. It typically involves symptoms like rash, vomiting, joint pain, redness, cough, itching."
+  },
+  {
+    "name": "Hypertension",
+    "symptoms": "Diarrhea, Dizziness, Fever, Sore throat, Shortness of breath",
+    "cause": "Viral infection",
+    "precautions": "Monitor symptoms closely, Complete prescribed medication course, Take medications as directed, Maintain hygiene",
+    "drugs": "Gabapentin, Clarithromycin, Silicea",
+    "drug_descriptions": {
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia.",
+      "Silicea": "Homeopathic remedy sometimes used for skin issues and immune support."
+    },
+    "description": "Hypertension is a common condition often caused by viral infection. It typically involves symptoms like diarrhea, dizziness, fever, sore throat, shortness of breath."
+  },
+  {
+    "name": "Allergic Rhinitis",
+    "symptoms": "Rash, Joint pain, Sneezing, Diarrhea",
+    "cause": "Autoimmune disorder",
+    "precautions": "Follow a balanced diet, Wash hands regularly, Avoid contact with infected individuals, Get adequate rest",
+    "drugs": "Sertraline, Mekinist, Methocarbamol",
+    "drug_descriptions": {
+      "Sertraline": "An SSRI used to treat depression, panic attacks, OCD, and PTSD.",
+      "Mekinist": "Targeted cancer therapy for melanoma and other BRAF mutation tumors.",
+      "Methocarbamol": "A muscle relaxant used for treating musculoskeletal pain and spasms."
+    },
+    "description": "Allergic Rhinitis is a common condition often caused by autoimmune disorder. It typically involves symptoms like rash, joint pain, sneezing, diarrhea."
+  },
+  {
+    "name": "Allergic Rhinitis",
+    "symptoms": "Vomiting, Muscle pain, Redness, Sneezing, Swelling, Nausea",
+    "cause": "Dietary imbalance",
+    "precautions": "Follow a balanced diet, Avoid allergens, Wash hands regularly, Avoid contact with infected individuals",
+    "drugs": "Clindamycin, Mekinist, Ipratropium",
+    "drug_descriptions": {
+      "Clindamycin": "Used for serious infections caused by susceptible anaerobic bacteria.",
+      "Mekinist": "Targeted cancer therapy for melanoma and other BRAF mutation tumors.",
+      "Ipratropium": "Relieves runny nose due to colds or allergies."
+    },
+    "description": "Allergic Rhinitis is a common condition often caused by dietary imbalance. It typically involves symptoms like vomiting, muscle pain, redness, sneezing, swelling, nausea."
+  },
+  {
+    "name": "Musculoskeletal Pain",
+    "symptoms": "Redness, Nausea, Itching, Swelling, Headache, Sneezing, Cough",
+    "cause": "Environmental allergens",
+    "precautions": "Wash hands regularly, Monitor symptoms closely, Regular exercise, Avoid allergens",
+    "drugs": "Clarithromycin, Prednisone, Loratadine",
+    "drug_descriptions": {
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia.",
+      "Prednisone": "A corticosteroid used to treat inflammation and autoimmune conditions.",
+      "Loratadine": "An antihistamine that reduces effects of natural histamine in the body."
+    },
+    "description": "Musculoskeletal Pain is a common condition often caused by environmental allergens. It typically involves symptoms like redness, nausea, itching, swelling, headache, sneezing, cough."
+  },
+  {
+    "name": "Anxiety Disorders",
+    "symptoms": "Sneezing, Loss of appetite, Cough, Nausea, Fatigue, Fever, Itching",
+    "cause": "Stress",
+    "precautions": "Avoid contact with infected individuals, Avoid allergens, Regular exercise, Maintain hygiene",
+    "drugs": "Glimepiride, Betadine, Clindamycin",
+    "drug_descriptions": {
+      "Glimepiride": "An oral diabetes medicine that helps control blood sugar levels.",
+      "Betadine": "Topical antiseptic for preventing infection in minor cuts and scrapes.",
+      "Clindamycin": "Used for serious infections caused by susceptible anaerobic bacteria."
+    },
+    "description": "Anxiety Disorders is a common condition often caused by stress. It typically involves symptoms like sneezing, loss of appetite, cough, nausea, fatigue, fever, itching."
+  },
+  {
+    "name": "Allergic Rhinitis",
+    "symptoms": "Fatigue, Shortness of breath, Rash, Vomiting",
+    "cause": "Dietary imbalance",
+    "precautions": "Avoid allergens, Take medications as directed, Monitor symptoms closely, Complete prescribed medication course",
+    "drugs": "Naproxen, Clindamycin, Plavix",
+    "drug_descriptions": {
+      "Naproxen": "NSAID for relieving pain, inflammation, and stiffness in arthritis and gout.",
+      "Clindamycin": "Used for serious infections caused by susceptible anaerobic bacteria.",
+      "Plavix": "Prevents strokes and heart attacks in people with heart disease."
+    },
+    "description": "Allergic Rhinitis is a common condition often caused by dietary imbalance. It typically involves symptoms like fatigue, shortness of breath, rash, vomiting."
+  },
+  {
+    "name": "Allergic Rhinitis",
+    "symptoms": "Fever, Headache, Cough, Fatigue",
+    "cause": "Bacterial infection",
+    "precautions": "Wash hands regularly, Regular exercise, Take medications as directed, Monitor symptoms closely",
+    "drugs": "Gabapentin, Etodolac, Prednisone",
+    "drug_descriptions": {
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Etodolac": "NSAID used to treat osteoarthritis, rheumatoid arthritis, and acute pain.",
+      "Prednisone": "A corticosteroid used to treat inflammation and autoimmune conditions."
+    },
+    "description": "Allergic Rhinitis is a common condition often caused by bacterial infection. It typically involves symptoms like fever, headache, cough, fatigue."
+  },
+  {
+    "name": "Musculoskeletal Pain",
+    "symptoms": "Joint pain, Loss of appetite, Fever, Cough, Sneezing, Itching",
+    "cause": "Bacterial infection",
+    "precautions": "Avoid contact with infected individuals, Avoid allergens, Wash hands regularly, Monitor symptoms closely",
+    "drugs": "Plavix, Ofloxacin, Loratadine",
+    "drug_descriptions": {
+      "Plavix": "Prevents strokes and heart attacks in people with heart disease.",
+      "Ofloxacin": "Antibiotic used primarily for eye infections caused by bacteria.",
+      "Loratadine": "An antihistamine that reduces effects of natural histamine in the body."
+    },
+    "description": "Musculoskeletal Pain is a common condition often caused by bacterial infection. It typically involves symptoms like joint pain, loss of appetite, fever, cough, sneezing, itching."
+  },
+  {
+    "name": "Urinary Tract Infections",
+    "symptoms": "Headache, Itching, Shortness of breath, Sore throat, Redness",
+    "cause": "Genetic predisposition",
+    "precautions": "Complete prescribed medication course, Take medications as directed, Avoid allergens, Maintain hygiene",
+    "drugs": "Silicea, Mekinist, Gabapentin",
+    "drug_descriptions": {
+      "Silicea": "Homeopathic remedy sometimes used for skin issues and immune support.",
+      "Mekinist": "Targeted cancer therapy for melanoma and other BRAF mutation tumors.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia."
+    },
+    "description": "Urinary Tract Infections is a common condition often caused by genetic predisposition. It typically involves symptoms like headache, itching, shortness of breath, sore throat, redness."
+  },
+  {
+    "name": "Skin Infections and Irritations",
+    "symptoms": "Shortness of breath, Rash, Sneezing, Dizziness, Headache, Swelling",
+    "cause": "Dietary imbalance",
+    "precautions": "Avoid contact with infected individuals, Get adequate rest, Take medications as directed, Regular exercise",
+    "drugs": "Sertraline, Desmopressin, Gabapentin",
+    "drug_descriptions": {
+      "Sertraline": "An SSRI used to treat depression, panic attacks, OCD, and PTSD.",
+      "Desmopressin": "Used to treat diabetes insipidus and bedwetting.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia."
+    },
+    "description": "Skin Infections and Irritations is a common condition often caused by dietary imbalance. It typically involves symptoms like shortness of breath, rash, sneezing, dizziness, headache, swelling."
+  },
+  {
+    "name": "Fungal Infections",
+    "symptoms": "Headache, Swelling, Redness, Rash, Itching, Loss of appetite, Joint pain",
+    "cause": "Viral infection",
+    "precautions": "Regular exercise, Wash hands regularly, Avoid allergens, Monitor symptoms closely",
+    "drugs": "Varenicline, Betadine, Clarithromycin",
+    "drug_descriptions": {
+      "Varenicline": "Used to help people stop smoking by reducing withdrawal symptoms.",
+      "Betadine": "Topical antiseptic for preventing infection in minor cuts and scrapes.",
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia."
+    },
+    "description": "Fungal Infections is a common condition often caused by viral infection. It typically involves symptoms like headache, swelling, redness, rash, itching, loss of appetite, joint pain."
+  },
+  {
+    "name": "Neuropathic Pain",
+    "symptoms": "Fatigue, Cough, Headache, Shortness of breath",
+    "cause": "Autoimmune disorder",
+    "precautions": "Get adequate rest, Regular exercise, Wash hands regularly, Take medications as directed",
+    "drugs": "Methocarbamol, Clarithromycin, Prednisone",
+    "drug_descriptions": {
+      "Methocarbamol": "A muscle relaxant used for treating musculoskeletal pain and spasms.",
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia.",
+      "Prednisone": "A corticosteroid used to treat inflammation and autoimmune conditions."
+    },
+    "description": "Neuropathic Pain is a common condition often caused by autoimmune disorder. It typically involves symptoms like fatigue, cough, headache, shortness of breath."
+  },
+  {
+    "name": "Skin Infections and Irritations",
+    "symptoms": "Loss of appetite, Sore throat, Dizziness, Sneezing",
+    "cause": "Physical trauma",
+    "precautions": "Avoid allergens, Regular exercise, Avoid contact with infected individuals, Monitor symptoms closely",
+    "drugs": "Silicea, Clindamycin, Plavix",
+    "drug_descriptions": {
+      "Silicea": "Homeopathic remedy sometimes used for skin issues and immune support.",
+      "Clindamycin": "Used for serious infections caused by susceptible anaerobic bacteria.",
+      "Plavix": "Prevents strokes and heart attacks in people with heart disease."
+    },
+    "description": "Skin Infections and Irritations is a common condition often caused by physical trauma. It typically involves symptoms like loss of appetite, sore throat, dizziness, sneezing."
+  },
+  {
+    "name": "Migraine Headaches",
+    "symptoms": "Shortness of breath, Headache, Nausea, Swelling, Loss of appetite",
+    "cause": "Chronic inflammation",
+    "precautions": "Take medications as directed, Wash hands regularly, Maintain hygiene, Follow a balanced diet",
+    "drugs": "Amoxicillin, Gabapentin, Clarithromycin",
+    "drug_descriptions": {
+      "Amoxicillin": "Used to treat infections caused by bacteria including ear, nose, throat, skin, and urinary tract infections.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia."
+    },
+    "description": "Migraine Headaches is a common condition often caused by chronic inflammation. It typically involves symptoms like shortness of breath, headache, nausea, swelling, loss of appetite."
+  },
+  {
+    "name": "Viral Infections",
+    "symptoms": "Fever, Vomiting, Sneezing, Swelling, Dizziness, Cough, Muscle pain",
+    "cause": "Bacterial infection",
+    "precautions": "Avoid contact with infected individuals, Avoid allergens, Get adequate rest, Regular exercise",
+    "drugs": "Loratadine, Gabapentin, Plavix",
+    "drug_descriptions": {
+      "Loratadine": "An antihistamine that reduces effects of natural histamine in the body.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Plavix": "Prevents strokes and heart attacks in people with heart disease."
+    },
+    "description": "Viral Infections is a common condition often caused by bacterial infection. It typically involves symptoms like fever, vomiting, sneezing, swelling, dizziness, cough, muscle pain."
+  },
+  {
+    "name": "Diabetes Mellitus",
+    "symptoms": "Muscle pain, Sore throat, Shortness of breath, Loss of appetite, Fever, Redness, Dizziness",
+    "cause": "Chronic inflammation",
+    "precautions": "Get adequate rest, Follow a balanced diet, Regular exercise, Monitor symptoms closely",
+    "drugs": "Naproxen, Clarithromycin, Sertraline",
+    "drug_descriptions": {
+      "Naproxen": "NSAID for relieving pain, inflammation, and stiffness in arthritis and gout.",
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia.",
+      "Sertraline": "An SSRI used to treat depression, panic attacks, OCD, and PTSD."
+    },
+    "description": "Diabetes Mellitus is a common condition often caused by chronic inflammation. It typically involves symptoms like muscle pain, sore throat, shortness of breath, loss of appetite, fever, redness, dizziness."
+  },
+  {
+    "name": "Diabetes Mellitus",
+    "symptoms": "Shortness of breath, Muscle pain, Itching, Loss of appetite",
+    "cause": "Poor hygiene",
+    "precautions": "Follow a balanced diet, Get adequate rest, Take medications as directed, Monitor symptoms closely",
+    "drugs": "Gabapentin, Amoxicillin, Ipratropium",
+    "drug_descriptions": {
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Amoxicillin": "Used to treat infections caused by bacteria including ear, nose, throat, skin, and urinary tract infections.",
+      "Ipratropium": "Relieves runny nose due to colds or allergies."
+    },
+    "description": "Diabetes Mellitus is a common condition often caused by poor hygiene. It typically involves symptoms like shortness of breath, muscle pain, itching, loss of appetite."
+  },
+  {
+    "name": "Fungal Infections",
+    "symptoms": "Fatigue, Cough, Dizziness, Shortness of breath, Vomiting, Muscle pain, Diarrhea",
+    "cause": "Bacterial infection",
+    "precautions": "Regular exercise, Get adequate rest, Complete prescribed medication course, Follow a balanced diet",
+    "drugs": "Sertraline, Methocarbamol, Naproxen",
+    "drug_descriptions": {
+      "Sertraline": "An SSRI used to treat depression, panic attacks, OCD, and PTSD.",
+      "Methocarbamol": "A muscle relaxant used for treating musculoskeletal pain and spasms.",
+      "Naproxen": "NSAID for relieving pain, inflammation, and stiffness in arthritis and gout."
+    },
+    "description": "Fungal Infections is a common condition often caused by bacterial infection. It typically involves symptoms like fatigue, cough, dizziness, shortness of breath, vomiting, muscle pain, diarrhea."
+  },
+  {
+    "name": "Urinary Tract Infections",
+    "symptoms": "Sore throat, Fever, Fatigue, Joint pain, Rash",
+    "cause": "Poor hygiene",
+    "precautions": "Maintain hygiene, Get adequate rest, Wash hands regularly, Monitor symptoms closely",
+    "drugs": "Plavix, Varenicline, Loratadine",
+    "drug_descriptions": {
+      "Plavix": "Prevents strokes and heart attacks in people with heart disease.",
+      "Varenicline": "Used to help people stop smoking by reducing withdrawal symptoms.",
+      "Loratadine": "An antihistamine that reduces effects of natural histamine in the body."
+    },
+    "description": "Urinary Tract Infections is a common condition often caused by poor hygiene. It typically involves symptoms like sore throat, fever, fatigue, joint pain, rash."
+  },
+  {
+    "name": "Neuropathic Pain",
+    "symptoms": "Sore throat, Cough, Headache, Muscle pain, Joint pain, Redness, Swelling",
+    "cause": "Viral infection",
+    "precautions": "Avoid allergens, Avoid contact with infected individuals, Monitor symptoms closely, Take medications as directed",
+    "drugs": "Betadine, Gabapentin, Gabapentin",
+    "drug_descriptions": {
+      "Betadine": "Topical antiseptic for preventing infection in minor cuts and scrapes.",
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia."
+    },
+    "description": "Neuropathic Pain is a common condition often caused by viral infection. It typically involves symptoms like sore throat, cough, headache, muscle pain, joint pain, redness, swelling."
+  },
+  {
+    "name": "Asthma",
+    "symptoms": "Diarrhea, Dizziness, Loss of appetite, Itching, Vomiting, Fever, Shortness of breath",
+    "cause": "Environmental allergens",
+    "precautions": "Avoid allergens, Follow a balanced diet, Complete prescribed medication course, Get adequate rest",
+    "drugs": "Amoxicillin, Ofloxacin, Clarithromycin",
+    "drug_descriptions": {
+      "Amoxicillin": "Used to treat infections caused by bacteria including ear, nose, throat, skin, and urinary tract infections.",
+      "Ofloxacin": "Antibiotic used primarily for eye infections caused by bacteria.",
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia."
+    },
+    "description": "Asthma is a common condition often caused by environmental allergens. It typically involves symptoms like diarrhea, dizziness, loss of appetite, itching, vomiting, fever, shortness of breath."
+  },
+  {
+    "name": "Thyroid Disorders",
+    "symptoms": "Vomiting, Shortness of breath, Rash, Diarrhea, Nausea, Swelling, Itching",
+    "cause": "Genetic predisposition",
+    "precautions": "Avoid allergens, Follow a balanced diet, Complete prescribed medication course, Wash hands regularly",
+    "drugs": "Gabapentin, Clarithromycin, Loratadine",
+    "drug_descriptions": {
+      "Gabapentin": "Treats nerve pain and seizures; may be used for postherpetic neuralgia.",
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia.",
+      "Loratadine": "An antihistamine that reduces effects of natural histamine in the body."
+    },
+    "description": "Thyroid Disorders is a common condition often caused by genetic predisposition. It typically involves symptoms like vomiting, shortness of breath, rash, diarrhea, nausea, swelling, itching."
+  },
+  {
+    "name": "Insomnia",
+    "symptoms": "Shortness of breath, Rash, Loss of appetite, Sore throat, Redness, Vomiting, Swelling",
+    "cause": "Bacterial infection",
+    "precautions": "Follow a balanced diet, Monitor symptoms closely, Maintain hygiene, Complete prescribed medication course",
+    "drugs": "Clarithromycin, Varenicline, Loratadine",
+    "drug_descriptions": {
+      "Clarithromycin": "An antibiotic used for infections like bronchitis, sinusitis, and pneumonia.",
+      "Varenicline": "Used to help people stop smoking by reducing withdrawal symptoms.",
+      "Loratadine": "An antihistamine that reduces effects of natural histamine in the body."
+    },
+    "description": "Insomnia is a common condition often caused by bacterial infection. It typically involves symptoms like shortness of breath, rash, loss of appetite, sore throat, redness, vomiting, swelling."
+  }
+]

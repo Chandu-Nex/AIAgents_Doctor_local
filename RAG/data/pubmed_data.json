@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Dengue Fever",
+    "symptoms": "High fever, Severe headache, Joint pain, Rash, Fatigue",
+    "cause": "Dengue virus, Transmitted via Aedes mosquito bites",
+    "precautions": "Use mosquito repellents, Wear long sleeves, Eliminate standing water, Use bed nets",
+    "drugs": "Paracetamol, Fluids, No specific antiviral",
+    "drug_descriptions": {
+      "Paracetamol": "For fever and pain relief, 500-1000 mg every 4-6 hours. May cause liver toxicity in overdose.",
+      "Fluids": "Oral or IV rehydration to prevent dehydration. No significant side effects.",
+      "No specific antiviral": "No antiviral drug exists; supportive care is key."
+    },
+    "description": "A viral infection causing flu-like symptoms, potentially leading to severe complications like hemorrhagic fever."
+  },
+  {
+    "name": "Crohn’s Disease",
+    "symptoms": "Abdominal pain, Diarrhea, Weight loss, Fatigue, Fever",
+    "cause": "Autoimmune response, Genetic factors, Gut bacteria imbalance",
+    "precautions": "Avoid trigger foods, Manage stress, Regular check-ups, Maintain nutrition",
+    "drugs": "Mesalamine, Adalimumab, Prednisone",
+    "drug_descriptions": {
+      "Mesalamine": "Anti-inflammatory for gut, 2-4 g daily. May cause nausea.",
+      "Adalimumab": "Biologic for inflammation, 40 mg every other week. May cause injection site reactions.",
+      "Prednisone": "Corticosteroid, 20-40 mg daily, tapered. May cause weight gain."
+    },
+    "description": "A chronic inflammatory bowel disease affecting the digestive tract, causing persistent discomfort."
+  },
+  {
+    "name": "Shingles",
+    "symptoms": "Painful rash, Blisters, Itching, Fever, Sensitivity to touch",
+    "cause": "Varicella-zoster virus, Reactivation from prior chickenpox",
+    "precautions": "Get vaccinated, Avoid contact with rash, Maintain immune health, Avoid stress",
+    "drugs": "Acyclovir, Valacyclovir, Gabapentin",
+    "drug_descriptions": {
+      "Acyclovir": "Antiviral, 800 mg 5 times daily for 7-10 days. May cause nausea.",
+      "Valacyclovir": "Antiviral, 1 g three times daily for 7 days. May cause headache.",
+      "Gabapentin": "For nerve pain, 300-600 mg daily. May cause dizziness."
+    },
+    "description": "A viral infection causing a painful rash, often in older adults or those with weakened immunity."
+  },
+  {
+    "name": "Otitis Media",
+    "symptoms": "Ear pain, Fever, Hearing loss, Irritability, Fluid drainage",
+    "cause": "Bacterial or viral infections, Often following colds",
+    "precautions": "Avoid water in ears, Vaccinate against flu, Maintain hygiene, Avoid smoke exposure",
+    "drugs": "Amoxicillin, Ibuprofen, Ear drops",
+    "drug_descriptions": {
+      "Amoxicillin": "Antibiotic, 500 mg every 8 hours for 7-10 days. May cause diarrhea.",
+      "Ibuprofen": "For pain, 400-800 mg every 6 hours. May cause stomach upset.",
+      "Ear drops": "Antibiotic/steroid drops, 2-3 drops 3 times daily. May cause local irritation."
+    },
+    "description": "An infection of the middle ear, common in children, causing pain and potential hearing issues."
+  },
+  {
+    "name": "Hypertension",
+    "symptoms": "Headache, Dizziness, Chest pain, Shortness of breath, Nosebleeds",
+    "cause": "Genetic factors, Stress, Obesity, High salt intake",
+    "precautions": "Reduce salt, Exercise regularly, Manage stress, Monitor blood pressure",
+    "drugs": "Lisinopril, Amlodipine, Hydrochlorothiazide",
+    "drug_descriptions": {
+      "Lisinopril": "ACE inhibitor, 10-40 mg daily. May cause cough.",
+      "Amlodipine": "Calcium channel blocker, 5-10 mg daily. May cause swelling.",
+      "Hydrochlorothiazide": "Diuretic, 12.5-25 mg daily. May cause electrolyte imbalance."
+    },
+    "description": "Chronic high blood pressure, increasing the risk of heart disease and stroke."
+  },
+  {
+    "name": "Cholera",
+    "symptoms": "Severe diarrhea, Vomiting, Dehydration, Muscle cramps, Shock",
+    "cause": "Vibrio cholerae, Contaminated water or food",
+    "precautions": "Drink clean water, Proper sanitation, Cook food thoroughly, Vaccinate",
+    "drugs": "Doxycycline, Fluids, Azithromycin",
+    "drug_descriptions": {
+      "Doxycycline": "Antibiotic, 300 mg single dose. May cause photosensitivity.",
+      "Fluids": "Oral or IV rehydration, dose varies. No significant side effects.",
+      "Azithromycin": "Antibiotic, 1 g single dose. May cause diarrhea."
+    },
+    "description": "A bacterial infection causing severe watery diarrhea, often in areas with poor sanitation."
+  },
+  {
+    "name": "Lupus",
+    "symptoms": "Joint pain, Rash, Fatigue, Fever, Kidney issues",
+    "cause": "Autoimmune response, Genetic factors, Environmental triggers",
+    "precautions": "Avoid sun exposure, Manage stress, Regular check-ups, Healthy diet",
+    "drugs": "Hydroxychloroquine, Prednisone, Mycophenolate",
+    "drug_descriptions": {
+      "Hydroxychloroquine": "For symptom control, 200-400 mg daily. May cause vision changes.",
+      "Prednisone": "Corticosteroid, 5-60 mg daily. May cause weight gain.",
+      "Mycophenolate": "Immunosuppressant, 1-3 g daily. May cause gastrointestinal upset."
+    },
+    "description": "A systemic autoimmune disease affecting multiple organs, often with flare-ups."
+  },
+  {
+    "name": "Tetanus",
+    "symptoms": "Muscle stiffness, Spasms, Fever, Jaw locking, Sweating",
+    "cause": "Clostridium tetani, Enters via wounds",
+    "precautions": "Get vaccinated, Clean wounds thoroughly, Avoid rusty objects, Use protective gear",
+    "drugs": "Tetanus immunoglobulin, Metronidazole, Diazepam",
+    "drug_descriptions": {
+      "Tetanus immunoglobulin": "Neutralizes toxin, dose varies. May cause injection site pain.",
+      "Metronidazole": "Antibiotic, 500 mg every 8 hours. May cause nausea.",
+      "Diazepam": "For muscle spasms, 5-10 mg every 4-6 hours. May cause drowsiness."
+    },
+    "description": "A bacterial infection causing muscle spasms, often due to contaminated wounds."
+  },
+  {
+    "name": "Gout",
+    "symptoms": "Sudden joint pain, Swelling, Redness, Heat, Stiffness",
+    "cause": "Uric acid buildup, Diet, Genetic factors",
+    "precautions": "Limit purine-rich foods, Stay hydrated, Maintain healthy weight, Avoid alcohol",
+    "drugs": "Allopurinol, Colchicine, Ibuprofen",
+    "drug_descriptions": {
+      "Allopurinol": "Reduces uric acid, 100-300 mg daily. May cause rash.",
+      "Colchicine": "For acute attacks, 0.6 mg every 1-2 hours. May cause diarrhea.",
+      "Ibuprofen": "For pain, 400-800 mg every 6 hours. May cause stomach upset."
+    },
+    "description": "A form of arthritis caused by uric acid crystals, leading to intense joint pain."
+  },
+  {
+    "name": "Pneumococcal Pneumonia",
+    "symptoms": "Fever, Cough, Chest pain, Shortness of breath, Confusion",
+    "cause": "Streptococcus pneumoniae, Airborne or direct contact",
+    "precautions": "Get vaccinated, Avoid crowds, Maintain hygiene, Stop smoking",
+    "drugs": "Levofloxacin, Ceftriaxone, Azithromycin",
+    "drug_descriptions": {
+      "Levofloxacin": "Antibiotic, 750 mg daily for 5-7 days. May cause tendon issues.",
+      "Ceftriaxone": "Antibiotic, 1-2 g daily. May cause rash.",
+      "Azithromycin": "Antibiotic, 500 mg day 1, then 250 mg daily for 4 days. May cause diarrhea."
+    },
+    "description": "A bacterial lung infection causing severe respiratory symptoms, often in the elderly."
+  },
+  {
+    "name": "Rosacea",
+    "symptoms": "Facial redness, Bumps, Eye irritation, Flushing, Visible blood vessels",
+    "cause": "Genetic factors, Environmental triggers, Demodex mites",
+    "precautions": "Avoid spicy foods, Use sunscreen, Manage stress, Use gentle skincare",
+    "drugs": "Metronidazole, Doxycycline, Ivermectin",
+    "drug_descriptions": {
+      "Metronidazole": "Topical for inflammation, applied twice daily. May cause skin irritation.",
+      "Doxycycline": "Oral antibiotic, 40 mg daily. May cause photosensitivity.",
+      "Ivermectin": "Topical for mites, applied once daily. May cause burning."
+    },
+    "description": "A chronic skin condition causing facial redness and inflammation, often triggered by external factors."
+  },
+  {
+    "name": "Hepatitis C",
+    "symptoms": "Fatigue, Jaundice, Abdominal pain, Nausea, Joint pain",
+    "cause": "Hepatitis C virus, Bloodborne transmission",
+    "precautions": "Avoid sharing needles, Screen blood products, Practice safe sex, Regular testing",
+    "drugs": "Sofosbuvir, Ledipasvir, Ribavirin",
+    "drug_descriptions": {
+      "Sofosbuvir": "Antiviral, 400 mg daily for 12 weeks. May cause fatigue.",
+      "Ledipasvir": "Combined with sofosbuvir, 90 mg daily. May cause headache.",
+      "Ribavirin": "Antiviral, 1000-1200 mg daily. May cause anemia."
+    },
+    "description": "A viral liver infection, often chronic, potentially leading to cirrhosis."
+  },
+  {
+    "name": "Chronic Obstructive Pulmonary Disease",
+    "symptoms": "Chronic cough, Shortness of breath, Wheezing, Chest tightness, Fatigue",
+    "cause": "Smoking, Air pollution, Genetic factors",
+    "precautions": "Quit smoking, Avoid pollutants, Use inhalers, Exercise regularly",
+    "drugs": "Tiotropium, Salmeterol, Prednisone",
+    "drug_descriptions": {
+      "Tiotropium": "Bronchodilator, 18 mcg daily. May cause dry mouth.",
+      "Salmeterol": "Long-acting bronchodilator, 50 mcg twice daily. May cause palpitations.",
+      "Prednisone": "For exacerbations, 40 mg daily for 5 days. May cause weight gain."
+    },
+    "description": "A progressive lung disease causing breathing difficulties, often linked to smoking."
+  },
+  {
+    "name": "Giardiasis",
+    "symptoms": "Diarrhea, Abdominal cramps, Bloating, Fatigue, Weight loss",
+    "cause": "Giardia lamblia, Contaminated water or food",
+    "precautions": "Drink clean water, Wash hands, Cook food thoroughly, Avoid untreated water",
+    "drugs": "Metronidazole, Tinidazole, Nitazoxanide",
+    "drug_descriptions": {
+      "Metronidazole": "Antiparasitic, 500 mg three times daily for 5-7 days. May cause nausea.",
+      "Tinidazole": "Antiparasitic, 2 g single dose. May cause metallic taste.",
+      "Nitazoxanide": "Antiparasitic, 500 mg twice daily for 3 days. May cause abdominal pain."
+    },
+    "description": "A parasitic infection of the intestines, causing digestive symptoms, often from contaminated sources."
+  },
+  {
+    "name": "Endometriosis",
+    "symptoms": "Pelvic pain, Painful periods, Infertility, Fatigue, Heavy bleeding",
+    "cause": "Endometrial tissue growth outside uterus, Hormonal factors",
+    "precautions": "Regular check-ups, Manage pain, Healthy diet, Consider hormonal therapy",
+    "drugs": "Ibuprofen, Leuprolide, Norethindrone",
+    "drug_descriptions": {
+      "Ibuprofen": "For pain, 400-800 mg every 6 hours. May cause stomach upset.",
+      "Leuprolide": "Hormonal therapy, 3.75 mg monthly. May cause hot flashes.",
+      "Norethindrone": "Progestin, 5 mg daily. May cause mood changes."
+    },
+    "description": "A condition where uterine tissue grows outside the uterus, causing pain and fertility issues."
+  },
+  {
+    "name": "Rabies",
+    "symptoms": "Fever, Headache, Muscle spasms, Confusion, Hydrophobia",
+    "cause": "Rabies virus, Transmitted via animal bites",
+    "precautions": "Vaccinate pets, Avoid wild animals, Seek immediate treatment post-bite, Use protective gear",
+    "drugs": "Rabies vaccine, Rabies immunoglobulin, Diazepam",
+    "drug_descriptions": {
+      "Rabies vaccine": "Post-exposure prophylaxis, 4 doses over 14 days. May cause injection site pain.",
+      "Rabies immunoglobulin": "Neutralizes virus, dose varies. May cause local reactions.",
+      "Diazepam": "For spasms, 5-10 mg every 4-6 hours. May cause drowsiness."
+    },
+    "description": "A fatal viral infection affecting the nervous system, transmitted through animal bites."
+  },
+  {
+    "name": "Osteoarthritis",
+    "symptoms": "Joint pain, Stiffness, Swelling, Reduced mobility, Crepitus",
+    "cause": "Cartilage degeneration, Aging, Obesity, Joint injury",
+    "precautions": "Maintain healthy weight, Exercise regularly, Avoid joint stress, Use supportive devices",
+    "drugs": "Acetaminophen, Duloxetine, Hyaluronic acid",
+    "drug_descriptions": {
+      "Acetaminophen": "For pain, 500-1000 mg every 4-6 hours. May cause liver toxicity.",
+      "Duloxetine": "For chronic pain, 60 mg daily. May cause nausea.",
+      "Hyaluronic acid": "Intra-articular injection, dose varies. May cause joint swelling."
+    },
+    "description": "A degenerative joint disease causing cartilage breakdown and pain, often in older adults."
+  },
+  {
+    "name": "Typhoid Fever",
+    "symptoms": "High fever, Weakness, Abdominal pain, Rash, Constipation",
+    "cause": "Salmonella typhi, Contaminated food or water",
+    "precautions": "Drink clean water, Vaccinate, Maintain hygiene, Cook food thoroughly",
+    "drugs": "Ceftriaxone, Azithromycin, Chloramphenicol",
+    "drug_descriptions": {
+      "Ceftriaxone": "Antibiotic, 1-2 g daily for 7-14 days. May cause rash.",
+      "Azithromycin": "Antibiotic, 500 mg daily for 7 days. May cause diarrhea.",
+      "Chloramphenicol": "Antibiotic, 500 mg every 6 hours. May cause bone marrow suppression."
+    },
+    "description": "A bacterial infection causing prolonged fever and systemic symptoms, often in endemic areas."
+  },
+  {
+    "name": "Allergic Rhinitis",
+    "symptoms": "Sneezing, Runny nose, Itchy eyes, Nasal congestion, Throat irritation",
+    "cause": "Allergens like pollen, Dust mites, Pet dander",
+    "precautions": "Avoid allergens, Use air purifiers, Keep windows closed, Use nasal saline",
+    "drugs": "Cetirizine, Fluticasone, Montelukast",
+    "drug_descriptions": {
+      "Cetirizine": "Antihistamine, 10 mg daily. May cause drowsiness.",
+      "Fluticasone": "Nasal corticosteroid, 1-2 sprays daily. May cause nosebleeds.",
+      "Montelukast": "For allergy control, 10 mg daily. May cause headache."
+    },
+    "description": "An allergic reaction causing nasal and eye symptoms, often seasonal or environmental."
+  },
+  {
+    "name": "Sepsis",
+    "symptoms": "Fever, Rapid heart rate, Confusion, Low blood pressure, Shortness of breath",
+    "cause": "Bacterial, viral, or fungal infections, Immune overreaction",
+    "precautions": "Treat infections promptly, Maintain hygiene, Vaccinate, Monitor symptoms",
+    "drugs": "Ceftriaxone, Vancomycin, Norepinephrine",
+    "drug_descriptions": {
+      "Ceftriaxone": "Broad-spectrum antibiotic, 1-2 g daily. May cause rash.",
+      "Vancomycin": "For resistant bacteria, 15-20 mg/kg every 8-12 hours. May cause kidney issues.",
+      "Norepinephrine": "For blood pressure support, dose varies. May cause arrhythmias."
+    },
+    "description": "A life-threatening condition caused by the body’s extreme response to infection, requiring urgent care."
+  }
+]

@@ -1,0 +1,306 @@
+/* Additional styles for the conversational medical assistant */
+
+/* Enhanced chat animations */
+.message {
+    transition: all 0.3s ease;
+}
+
+.message:hover {
+    transform: translateY(-1px);
+}
+
+/* Smooth scrolling for chat messages */
+.chat-messages {
+    scroll-behavior: smooth;
+}
+
+/* Enhanced input focus states */
+.chat-input-container.focused {
+    transform: scale(1.02);
+    transition: transform 0.2s ease;
+}
+
+/* Loading states */
+.send-btn.loading {
+    animation: pulse 1.5s infinite;
+}
+
+/* Message bubble enhancements */
+.message-content {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+.message.user .message-content {
+    box-shadow: 0 2px 8px rgba(102, 126, 234, 0.2);
+}
+
+.message.assistant .message-content {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Typing indicator enhancements */
+.typing-indicator {
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 15px;
+    margin: 10px 0;
+    padding: 15px 20px;
+}
+
+/* Session info enhancements */
+.session-info {
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Clear chat button enhancements */
+.clear-chat-btn {
+    backdrop-filter: blur(10px);
+    transition: all 0.3s ease;
+}
+
+.clear-chat-btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Responsive enhancements */
+@media (max-width: 768px) {
+    .main-content {
+        grid-template-columns: 1fr;
+    }
+    
+    .doctor-section {
+        order: 2;
+        margin-top: 15px;
+    }
+    
+    .chat-section {
+        order: 1;
+    }
+    
+    .message-content {
+        max-width: 90%;
+    }
+    
+    .chat-input {
+        font-size: 16px; /* Prevents zoom on iOS */
+    }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+    .chat-section {
+        background: rgba(30, 30, 30, 0.95);
+        color: #fff;
+    }
+    
+    .message.assistant .message-content {
+        background: #2a2a2a;
+        color: #fff;
+        border-color: #444;
+    }
+    
+    .chat-input {
+        background: #2a2a2a;
+        color: #fff;
+        border-color: #444;
+    }
+    
+    .chat-input:focus {
+        background: #333;
+        border-color: #667eea;
+    }
+}
+
+/* Accessibility improvements */
+@media (prefers-reduced-motion: reduce) {
+    .message,
+    .send-btn,
+    .clear-chat-btn {
+        animation: none;
+        transition: none;
+    }
+}
+
+/* High contrast mode */
+@media (prefers-contrast: high) {
+    .message.user .message-content {
+        background: #000;
+        color: #fff;
+        border: 2px solid #fff;
+    }
+    
+    .message.assistant .message-content {
+        background: #fff;
+        color: #000;
+        border: 2px solid #000;
+    }
+}
+
+/* Print styles */
+@media print {
+    .chat-input-section,
+    .typing-indicator,
+    .clear-chat-btn {
+        display: none;
+    }
+    
+    .chat-messages {
+        height: auto;
+        overflow: visible;
+    }
+}
+
+/* Focus indicators for accessibility */
+.chat-input:focus,
+.send-btn:focus,
+.clear-chat-btn:focus {
+    outline: 2px solid #667eea;
+    outline-offset: 2px;
+}
+
+/* Enhanced error states */
+.error-message {
+    animation: shake 0.5s ease-in-out;
+}
+
+@keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    75% { transform: translateX(5px); }
+}
+
+/* Success states */
+.success-message {
+    animation: slideInRight 0.5s ease-out;
+}
+
+@keyframes slideInRight {
+    from {
+        opacity: 0;
+        transform: translateX(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+/* Enhanced welcome message */
+.welcome-message {
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1));
+    border-radius: 15px;
+    border: 1px solid rgba(102, 126, 234, 0.2);
+}
+
+/* Message timestamp styling */
+.message-time {
+    font-family: 'Courier New', monospace;
+    font-size: 0.7rem;
+}
+
+/* Enhanced avatar animations */
+.message-avatar {
+    transition: transform 0.2s ease;
+}
+
+.message-avatar:hover {
+    transform: scale(1.1);
+}
+
+/* Scrollbar styling */
+.chat-messages::-webkit-scrollbar {
+    width: 6px;
+}
+
+.chat-messages::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+}
+
+.chat-messages::-webkit-scrollbar-thumb {
+    background: rgba(102, 126, 234, 0.5);
+    border-radius: 3px;
+}
+
+.chat-messages::-webkit-scrollbar-thumb:hover {
+    background: rgba(102, 126, 234, 0.7);
+}
+
+/* Enhanced form validation */
+.chat-input:invalid {
+    border-color: #e74c3c;
+    box-shadow: 0 0 0 3px rgba(231, 76, 60, 0.1);
+}
+
+/* Loading spinner for send button */
+.send-btn .fa-spinner {
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+/* Enhanced notification system */
+.notification {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+    max-width: 300px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transform: translateX(100%);
+    transition: transform 0.3s ease;
+}
+
+.notification.show {
+    transform: translateX(0);
+}
+
+/* Enhanced doctor section */
+.doctor-section {
+    position: relative;
+    overflow: hidden;
+}
+
+.doctor-section::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(45deg, transparent 30%, rgba(255, 255, 255, 0.1) 50%, transparent 70%);
+    transform: translateX(-100%);
+    transition: transform 0.6s ease;
+}
+
+.doctor-section:hover::after {
+    transform: translateX(100%);
+}
+
+/* Enhanced chat header */
+.chat-header {
+    position: relative;
+    overflow: hidden;
+}
+
+.chat-header::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    transition: left 0.5s ease;
+}
+
+.chat-header:hover::before {
+    left: 100%;
+} 

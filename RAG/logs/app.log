@@ -1,0 +1,10 @@
+2025-08-03 00:48:14,643 - INFO - Use pytorch device_name: cpu
+2025-08-03 00:48:14,643 - INFO - Load pretrained SentenceTransformer: pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb
+2025-08-03 00:48:30,441 - INFO - Use pytorch device_name: cpu
+2025-08-03 00:48:30,441 - INFO - Load pretrained SentenceTransformer: pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb
+2025-08-03 00:49:15,462 - INFO - Use pytorch device_name: cpu
+2025-08-03 00:49:15,462 - INFO - Load pretrained SentenceTransformer: pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb
+2025-08-03 00:49:22,800 - INFO - Use pytorch device_name: cpu
+2025-08-03 00:49:22,815 - INFO - Load pretrained SentenceTransformer: pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb
+2025-08-03 00:49:36,221 - INFO - Processed query: Chandu
+2025-08-03 00:53:05,868 - INFO - Processed query: Fever

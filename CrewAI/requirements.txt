@@ -1,0 +1,8 @@
+crewai
+flask
+redis
+psycopg2
+python-dotenv
+requests
+langchain-core
+uuid

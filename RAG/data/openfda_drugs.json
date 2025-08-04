@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Viral Pneumonia",
+    "symptoms": "Fever, Dry cough, Shortness of breath, Chest pain, Fatigue, Muscle aches",
+    "cause": "Influenza virus, Respiratory syncytial virus (RSV), Adenovirus",
+    "precautions": "Get vaccinated, Avoid close contact with sick individuals, Wash hands frequently, Wear a mask in crowded areas",
+    "drugs": "Oseltamivir, Ribavirin, Zanamivir",
+    "drug_descriptions": {
+      "Oseltamivir": "An antiviral drug for influenza treatment, taken as 75 mg twice daily for 5 days. May cause nausea and headache.",
+      "Ribavirin": "Used for severe RSV infections, administered via inhalation or orally. Side effects include anemia and fatigue.",
+      "Zanamivir": "An inhaled antiviral for influenza, 10 mg twice daily for 5 days. May cause bronchospasm in some patients."
+    },
+    "description": "A lung infection caused by viruses, leading to inflammation and respiratory difficulties, often requiring supportive care."
+  },
+  {
+    "name": "Chronic Sinusitis",
+    "symptoms": "Nasal congestion, Facial pain, Headache, Postnasal drip, Loss of smell",
+    "cause": "Bacterial or fungal infections, Nasal polyps, Allergies",
+    "precautions": "Use saline nasal sprays, Avoid allergens, Maintain humidity, Avoid smoking",
+    "drugs": "Fluticasone, Amoxicillin, Clarithromycin",
+    "drug_descriptions": {
+      "Fluticasone": "A nasal corticosteroid to reduce inflammation, used as 1-2 sprays per nostril daily. May cause nosebleeds.",
+      "Amoxicillin": "A broad-spectrum antibiotic, 500 mg every 8 hours for 10-14 days. Side effects include rash and diarrhea.",
+      "Clarithromycin": "Used for bacterial sinusitis, 500 mg twice daily for 7-14 days. May cause nausea and taste changes."
+    },
+    "description": "A prolonged inflammation of the sinuses, often causing persistent discomfort and requiring long-term management."
+  },
+  {
+    "name": "Gastroenteritis",
+    "symptoms": "Diarrhea, Vomiting, Abdominal pain, Fever, Dehydration",
+    "cause": "Norovirus, Rotavirus, Escherichia coli, Salmonella",
+    "precautions": "Wash hands thoroughly, Cook food properly, Avoid contaminated water, Stay hydrated",
+    "drugs": "Loperamide, Ondansetron, Ciprofloxacin",
+    "drug_descriptions": {
+      "Loperamide": "An antidiarrheal, 4 mg initially then 2 mg after each loose stool. May cause constipation.",
+      "Ondansetron": "Used for nausea, 4-8 mg every 8 hours. Side effects include headache and constipation.",
+      "Ciprofloxacin": "An antibiotic for bacterial gastroenteritis, 500 mg twice daily for 5-7 days. May cause nausea."
+    },
+    "description": "An inflammation of the stomach and intestines, often caused by viral or bacterial infections, leading to digestive upset."
+  },
+  {
+    "name": "Rheumatoid Arthritis",
+    "symptoms": "Joint pain, Stiffness, Swelling, Fatigue, Fever",
+    "cause": "Autoimmune response, Genetic factors, Environmental triggers",
+    "precautions": "Regular exercise, Maintain healthy weight, Avoid smoking, Manage stress",
+    "drugs": "Methotrexate, Adalimumab, Ibuprofen",
+    "drug_descriptions": {
+      "Methotrexate": "A DMARD for autoimmune control, 7.5-20 mg weekly. May cause liver toxicity and nausea.",
+      "Adalimumab": "A biologic for inflammation, 40 mg every other week. Side effects include injection site reactions.",
+      "Ibuprofen": "An NSAID for pain, 400-800 mg every 6-8 hours. May cause stomach upset."
+    },
+    "description": "A chronic autoimmune disorder causing joint inflammation and pain, often requiring lifelong treatment."
+  },
+  {
+    "name": "Urinary Tract Infection",
+    "symptoms": "Burning during urination, Frequent urination, Cloudy urine, Pelvic pain, Fever",
+    "cause": "Escherichia coli, Klebsiella pneumoniae, Staphylococcus saprophyticus",
+    "precautions": "Stay hydrated, Urinate frequently, Maintain hygiene, Avoid irritants like scented soaps",
+    "drugs": "Nitrofurantoin, Trimethoprim, Fosfomycin",
+    "drug_descriptions": {
+      "Nitrofurantoin": "An antibiotic for UTIs, 100 mg twice daily for 5 days. May cause nausea and urine discoloration.",
+      "Trimethoprim": "Used for uncomplicated UTIs, 100 mg twice daily for 3-7 days. Side effects include rash.",
+      "Fosfomycin": "A single-dose antibiotic, 3 g in one dose. May cause diarrhea."
+    },
+    "description": "An infection in the urinary system, often bacterial, causing discomfort and requiring prompt treatment."
+  },
+  {
+    "name": "Hepatitis B",
+    "symptoms": "Jaundice, Fatigue, Abdominal pain, Nausea, Dark urine",
+    "cause": "Hepatitis B virus, Transmitted via blood or bodily fluids",
+    "precautions": "Get vaccinated, Use safe practices, Avoid sharing needles, Screen blood products",
+    "drugs": "Tenofovir, Entecavir, Lamivudine",
+    "drug_descriptions": {
+      "Tenofovir": "An antiviral for chronic HBV, 300 mg daily. May cause kidney issues.",
+      "Entecavir": "Used for HBV, 0.5-1 mg daily. Side effects include headache and fatigue.",
+      "Lamivudine": "An antiviral, 100 mg daily. May cause nausea and resistance development."
+    },
+    "description": "A viral infection affecting the liver, potentially leading to chronic disease or liver cancer."
+  },
+  {
+    "name": "Migraine",
+    "symptoms": "Throbbing headache, Nausea, Sensitivity to light, Aura, Vomiting",
+    "cause": "Neurological dysfunction, Genetic predisposition, Triggers like stress or certain foods",
+    "precautions": "Avoid triggers, Maintain sleep schedule, Stay hydrated, Manage stress",
+    "drugs": "Sumatriptan, Rizatriptan, Ibuprofen",
+    "drug_descriptions": {
+      "Sumatriptan": "A triptan for acute migraine, 50-100 mg per dose. May cause dizziness.",
+      "Rizatriptan": "Used for migraines with aura, 5-10 mg per dose. Side effects include fatigue.",
+      "Ibuprofen": "For mild migraines, 400-800 mg every 6 hours. May cause stomach irritation."
+    },
+    "description": "A neurological condition causing severe headaches, often accompanied by sensory disturbances."
+  },
+  {
+    "name": "Tuberculosis",
+    "symptoms": "Persistent cough, Weight loss, Night sweats, Fever, Chest pain",
+    "cause": "Mycobacterium tuberculosis, Airborne transmission",
+    "precautions": "Wear masks, Ensure ventilation, Complete treatment, Avoid close contact",
+    "drugs": "Isoniazid, Rifampin, Ethambutol",
+    "drug_descriptions": {
+      "Isoniazid": "Antitubercular, 300 mg daily for 6-9 months. May cause liver toxicity.",
+      "Rifampin": "Used for TB, 600 mg daily. Side effects include orange urine and liver issues.",
+      "Ethambutol": "For TB treatment, 15-25 mg/kg daily. May cause vision changes."
+    },
+    "description": "A bacterial infection primarily affecting the lungs, potentially spreading to other organs."
+  },
+  {
+    "name": "Type 2 Diabetes",
+    "symptoms": "Increased thirst, Frequent urination, Fatigue, Blurred vision, Slow healing wounds",
+    "cause": "Insulin resistance, Genetic factors, Obesity",
+    "precautions": "Maintain healthy diet, Exercise regularly, Monitor blood sugar, Avoid smoking",
+    "drugs": "Metformin, Glipizide, Sitagliptin",
+    "drug_descriptions": {
+      "Metformin": "For blood sugar control, 500-1000 mg twice daily. May cause gastrointestinal upset.",
+      "Glipizide": "A sulfonylurea, 5-10 mg daily. Side effects include hypoglycemia.",
+      "Sitagliptin": "A DPP-4 inhibitor, 100 mg daily. May cause joint pain."
+    },
+    "description": "A chronic condition affecting blood sugar regulation, often linked to lifestyle factors."
+  },
+  {
+    "name": "Bronchitis",
+    "symptoms": "Cough, Mucus production, Wheezing, Chest discomfort, Fatigue",
+    "cause": "Viruses, Bacteria, Environmental irritants",
+    "precautions": "Avoid smoking, Use humidifiers, Stay hydrated, Avoid irritants",
+    "drugs": "Albuterol, Azithromycin, Guaifenesin",
+    "drug_descriptions": {
+      "Albuterol": "A bronchodilator, 2-4 puffs every 4-6 hours. May cause palpitations.",
+      "Azithromycin": "For bacterial bronchitis, 500 mg on day 1, then 250 mg daily for 4 days. May cause diarrhea.",
+      "Guaifenesin": "An expectorant, 200-400 mg every 4 hours. May cause nausea."
+    },
+    "description": "An inflammation of the bronchial tubes, often causing persistent cough and mucus."
+  },
+  {
+    "name": "Lyme Disease",
+    "symptoms": "Bullseye rash, Fever, Joint pain, Fatigue, Headache",
+    "cause": "Borrelia burgdorferi, Transmitted via tick bites",
+    "precautions": "Use insect repellent, Check for ticks, Wear protective clothing, Avoid wooded areas",
+    "drugs": "Doxycycline, Amoxicillin, Cefuroxime",
+    "drug_descriptions": {
+      "Doxycycline": "An antibiotic, 100 mg twice daily for 14-21 days. May cause photosensitivity.",
+      "Amoxicillin": "For early Lyme, 500 mg every 8 hours for 14-21 days. Side effects include rash.",
+      "Cefuroxime": "Used for Lyme, 500 mg twice daily for 14-21 days. May cause diarrhea."
+    },
+    "description": "A bacterial infection from tick bites, potentially causing long-term complications."
+  },
+  {
+    "name": "Psoriasis",
+    "symptoms": "Red patches, Scaly skin, Itching, Joint pain, Burning sensation",
+    "cause": "Autoimmune response, Genetic factors, Environmental triggers",
+    "precautions": "Moisturize skin, Avoid triggers, Manage stress, Use mild soaps",
+    "drugs": "Betamethasone, Calcipotriene, Methotrexate",
+    "drug_descriptions": {
+      "Betamethasone": "A topical corticosteroid, applied 1-2 times daily. May cause skin thinning.",
+      "Calcipotriene": "A vitamin D analog, applied twice daily. May cause skin irritation.",
+      "Methotrexate": "For severe cases, 7.5-20 mg weekly. Side effects include liver toxicity."
+    },
+    "description": "A chronic autoimmune condition causing rapid skin cell turnover and inflammation."
+  },
+  {
+    "name": "Meningitis",
+    "symptoms": "Fever, Stiff neck, Headache, Sensitivity to light, Confusion",
+    "cause": "Bacterial or viral infections, Fungi, Parasites",
+    "precautions": "Get vaccinated, Avoid close contact, Maintain hygiene, Early treatment",
+    "drugs": "Ceftriaxone, Vancomycin, Acyclovir",
+    "drug_descriptions": {
+      "Ceftriaxone": "For bacterial meningitis, 2 g every 12 hours. May cause rash.",
+      "Vancomycin": "Used for resistant bacteria, 15-20 mg/kg every 8-12 hours. May cause kidney issues.",
+      "Acyclovir": "For viral meningitis, 10 mg/kg every 8 hours. Side effects include nausea."
+    },
+    "description": "An inflammation of the brain and spinal cord membranes, often requiring urgent care."
+  },
+  {
+    "name": "Asthma",
+    "symptoms": "Wheezing, Shortness of breath, Chest tightness, Cough, Nighttime symptoms",
+    "cause": "Allergens, Exercise, Cold air, Genetic predisposition",
+    "precautions": "Avoid triggers, Use inhalers, Monitor symptoms, Maintain air quality",
+    "drugs": "Albuterol, Budesonide, Montelukast",
+    "drug_descriptions": {
+      "Albuterol": "A rescue inhaler, 2-4 puffs every 4-6 hours. May cause palpitations.",
+      "Budesonide": "A corticosteroid inhaler, 1-2 puffs twice daily. May cause throat irritation.",
+      "Montelukast": "For allergy-related asthma, 10 mg daily. Side effects include headache."
+    },
+    "description": "A chronic respiratory condition causing airway inflammation and breathing difficulties."
+  },
+  {
+    "name": "Peptic Ulcer Disease",
+    "symptoms": "Burning stomach pain, Bloating, Nausea, Heartburn, Vomiting",
+    "cause": "Helicobacter pylori, NSAIDs, Stress",
+    "precautions": "Avoid NSAIDs, Reduce stress, Limit alcohol, Avoid spicy foods",
+    "drugs": "Omeprazole, Amoxicillin, Clarithromycin",
+    "drug_descriptions": {
+      "Omeprazole": "A PPI to reduce acid, 20-40 mg daily. May cause headache.",
+      "Amoxicillin": "For H. pylori, 1 g twice daily for 14 days. Side effects include diarrhea.",
+      "Clarithromycin": "For H. pylori, 500 mg twice daily for 14 days. May cause taste changes."
+    },
+    "description": "Sores in the stomach or small intestine lining, often caused by bacterial infection or medication."
+  },
+  {
+    "name": "Conjunctivitis",
+    "symptoms": "Red eyes, Itching, Discharge, Tearing, Swollen eyelids",
+    "cause": "Bacteria, Viruses, Allergens, Irritants",
+    "precautions": "Avoid touching eyes, Wash hands, Avoid sharing towels, Use clean contact lenses",
+    "drugs": "Erythromycin, Antihistamines, Fluorometholone",
+    "drug_descriptions": {
+      "Erythromycin": "A topical antibiotic, applied 2-4 times daily. May cause eye irritation.",
+      "Antihistamines": "For allergic conjunctivitis, oral or drops. May cause drowsiness.",
+      "Fluorometholone": "A corticosteroid drop, 1-2 drops 4 times daily. May increase eye pressure."
+    },
+    "description": "An inflammation of the conjunctiva, often causing discomfort and redness in the eyes."
+  },
+  {
+    "name": "Eczema",
+    "symptoms": "Itchy skin, Redness, Dry patches, Scaling, Swelling",
+    "cause": "Genetic factors, Allergens, Irritants, Stress",
+    "precautions": "Moisturize regularly, Avoid triggers, Use hypoallergenic products, Manage stress",
+    "drugs": "Hydrocortisone, Tacrolimus, Antihistamines",
+    "drug_descriptions": {
+      "Hydrocortisone": "A topical steroid, applied 1-2 times daily. May cause skin thinning.",
+      "Tacrolimus": "For severe eczema, applied twice daily. May cause burning sensation.",
+      "Antihistamines": "For itching, oral doses vary. May cause drowsiness."
+    },
+    "description": "A chronic skin condition causing inflamed, itchy patches, often linked to allergies."
+  },
+  {
+    "name": "Malaria",
+    "symptoms": "Fever, Chills, Sweats, Headache, Muscle pain",
+    "cause": "Plasmodium parasites, Transmitted via mosquito bites",
+    "precautions": "Use mosquito nets, Apply repellents, Take prophylaxis, Avoid mosquito-prone areas",
+    "drugs": "Chloroquine, Artemether, Mefloquine",
+    "drug_descriptions": {
+      "Chloroquine": "For malaria treatment, 600 mg initially, then 300 mg weekly. May cause nausea.",
+      "Artemether": "For severe malaria, 3.2 mg/kg initially, then 1.6 mg/kg daily. May cause dizziness.",
+      "Mefloquine": "For prophylaxis, 250 mg weekly. Side effects include nightmares."
+    },
+    "description": "A parasitic infection affecting red blood cells, often causing severe fever cycles."
+  },
+  {
+    "name": "Chronic Kidney Disease",
+    "symptoms": "Fatigue, Swelling, High blood pressure, Itchy skin, Poor appetite",
+    "cause": "Diabetes, Hypertension, Glomerulonephritis",
+    "precautions": "Control blood pressure, Monitor diet, Limit protein, Stay hydrated",
+    "drugs": "Lisinopril, Furosemide, Erythropoietin",
+    "drug_descriptions": {
+      "Lisinopril": "An ACE inhibitor, 10-40 mg daily. May cause cough.",
+      "Furosemide": "A diuretic, 20-80 mg daily. May cause dehydration.",
+      "Erythropoietin": "For anemia, dose varies. May cause hypertension."
+    },
+    "description": "A progressive loss of kidney function, often linked to chronic conditions."
+  },
+  {
+    "name": "Influenza",
+    "symptoms": "Fever, Cough, Sore throat, Muscle aches, Fatigue",
+    "cause": "Influenza A or B viruses",
+    "precautions": "Get vaccinated, Wash hands, Avoid crowds, Wear masks",
+    "drugs": "Oseltamivir, Zanamivir, Baloxavir",
+    "drug_descriptions": {
+      "Oseltamivir": "Antiviral, 75 mg twice daily for 5 days. May cause nausea.",
+      "Zanamivir": "Inhaled antiviral, 10 mg twice daily for 5 days. May cause bronchospasm.",
+      "Baloxavir": "Single-dose antiviral, 40-80 mg. May cause diarrhea."
+    },
+    "description": "A contagious respiratory illness caused by influenza viruses, often seasonal."
+  }
+]

@@ -1,0 +1,589 @@
+  [
+    {
+      "name": "Influenza",
+      "symptoms": "Fever, Cough, Sore throat, Muscle aches, Fatigue, Headache, Runny nose",
+      "cause": "Influenza virus (types A, B, C, or D)",
+      "precautions": "Annual vaccination, Wash hands regularly, Avoid contact with sick individuals, Wear masks in crowded places",
+      "drugs": "Oseltamivir, Zanamivir",
+      "drug_descriptions": {
+        "Oseltamivir": "An antiviral medication that inhibits influenza virus neuraminidase, reducing viral spread. Typically prescribed as a 75 mg capsule twice daily for 5 days. Common side effects include nausea and headache.",
+        "Zanamivir": "An inhaled antiviral that prevents influenza virus release from infected cells. Administered as 10 mg twice daily for 5 days via inhaler. Side effects may include bronchospasm, especially in asthmatics."
+      },
+      "description": "A contagious respiratory illness that can lead to severe complications in vulnerable populations if untreated."
+    },
+    {
+      "name": "Tuberculosis",
+      "symptoms": "Persistent cough, Chest pain, Weight loss, Night sweats, Fever, Fatigue",
+      "cause": "Mycobacterium tuberculosis (bacterial infection)",
+      "precautions": "BCG vaccination, Avoid close contact with infected individuals, Ensure good ventilation, Wear masks in high-risk settings",
+      "drugs": "Isoniazid, Rifampin",
+      "drug_descriptions": {
+        "Isoniazid": "A bactericidal antibiotic that inhibits mycobacterial cell wall synthesis. Typically dosed at 5 mg/kg daily for 6-9 months. Side effects include liver toxicity and peripheral neuropathy.",
+        "Rifampin": "A bactericidal antibiotic that inhibits bacterial RNA polymerase. Dosed at 10 mg/kg daily. Common side effects include orange discoloration of bodily fluids and liver enzyme elevation."
+      },
+      "description": "A serious infectious disease primarily affecting the lungs, requiring prolonged treatment to prevent drug resistance."
+    },
+    {
+      "name": "Malaria",
+      "symptoms": "Fever, Chills, Headache, Muscle aches, Fatigue, Nausea, Vomiting",
+      "cause": "Plasmodium parasites (transmitted via Anopheles mosquito bites)",
+      "precautions": "Use mosquito nets, Apply insect repellent, Take prophylactic antimalarials, Eliminate standing water",
+      "drugs": "Chloroquine, Artemisinin-based combination therapies (ACTs)",
+      "drug_descriptions": {
+        "Chloroquine": "An antimalarial drug that interferes with parasite growth in red blood cells. Dosed at 600 mg base initially, followed by 300 mg weekly for prophylaxis. Side effects include gastrointestinal upset and retinopathy with long-term use.",
+        "Artemisinin-based combination therapies (ACTs)": "Combines artemisinin derivatives with other antimalarials (e.g., lumefantrine) to treat uncomplicated malaria. Dosing varies by regimen. Side effects include headache and dizziness."
+      },
+      "description": "A life-threatening disease common in tropical regions, preventable with proper precautions."
+    },
+    {
+      "name": "Diabetes Mellitus Type 2",
+      "symptoms": "Increased thirst, Frequent urination, Fatigue, Blurred vision, Slow-healing wounds",
+      "cause": "Insulin resistance and relative insulin deficiency",
+      "precautions": "Maintain healthy diet, Exercise regularly, Monitor blood sugar, Avoid smoking",
+      "drugs": "Metformin, Insulin",
+      "drug_descriptions": {
+        "Metformin": "A biguanide that reduces hepatic glucose production and improves insulin sensitivity. Typical dose is 500-1000 mg twice daily. Side effects include gastrointestinal upset and rare lactic acidosis.",
+        "Insulin": "A hormone replacement therapy for blood glucose control. Dosing is individualized (e.g., basal and bolus regimens). Side effects include hypoglycemia and weight gain."
+      },
+      "description": "A chronic condition manageable with lifestyle changes and medication, but complications can arise if uncontrolled."
+    },
+    {
+      "name": "Hypertension",
+      "symptoms": "Headache, Dizziness, Blurred vision, Chest pain, Shortness of breath",
+      "cause": "Genetic factors, Poor diet, Sedentary lifestyle, Stress",
+      "precautions": "Reduce salt intake, Exercise regularly, Manage stress, Avoid smoking",
+      "drugs": "Lisinopril, Amlodipine",
+      "drug_descriptions": {
+        "Lisinopril": "An ACE inhibitor that relaxes blood vessels to lower blood pressure. Typical dose is 10-40 mg daily. Side effects include cough and hyperkalemia.",
+        "Amlodipine": "A calcium channel blocker that dilates blood vessels. Dosed at 5-10 mg daily. Common side effects include edema and fatigue."
+      },
+      "description": "A common condition that increases the risk of heart disease and stroke if not managed properly."
+    },
+    {
+      "name": "Asthma",
+      "symptoms": "Wheezing, Shortness of breath, Chest tightness, Cough",
+      "cause": "Allergic reactions, Environmental triggers, Genetic predisposition",
+      "precautions": "Avoid allergens, Use air purifiers, Monitor lung function, Carry rescue inhaler",
+      "drugs": "Albuterol, Budesonide",
+      "drug_descriptions": {
+        "Albuterol": "A short-acting beta-agonist bronchodilator for acute asthma relief. Administered via inhaler (90 mcg/puff, 1-2 puffs as needed). Side effects include tremors and tachycardia.",
+        "Budesonide": "An inhaled corticosteroid that reduces airway inflammation. Typical dose is 180-360 mcg twice daily. Side effects include oral thrush and hoarseness."
+      },
+      "description": "A chronic respiratory condition manageable with proper medication and trigger avoidance."
+    },
+    {
+      "name": "Dengue Fever",
+      "symptoms": "High fever, Severe headache, Muscle and joint pain, Skin rash, Nausea",
+      "cause": "Dengue virus (transmitted via Aedes mosquito bites)",
+      "precautions": "Use mosquito nets, Apply insect repellent, Wear long sleeves, Eliminate standing water",
+      "drugs": "Paracetamol, Supportive care",
+      "drug_descriptions": {
+        "Paracetamol": "An analgesic and antipyretic used to manage fever and pain. Dosed at 500-1000 mg every 4-6 hours (max 4 g/day). Side effects include rare liver toxicity.",
+        "Supportive care": "No specific antiviral; includes fluids and rest to manage symptoms."
+      },
+      "description": "A mosquito-borne illness that can progress to severe forms requiring hospitalization."
+    },
+    {
+      "name": "Gastroenteritis",
+      "symptoms": "Diarrhea, Vomiting, Abdominal pain, Fever, Dehydration",
+      "cause": "Viral (e.g., norovirus), Bacterial (e.g., Salmonella), or Parasitic infection",
+      "precautions": "Wash hands regularly, Avoid contaminated food/water, Practice safe food handling",
+      "drugs": "Loperamide, Oral rehydration salts",
+      "drug_descriptions": {
+        "Loperamide": "An antidiarrheal that slows gut motility. Dosed at 4 mg initially, then 2 mg after each loose stool (max 16 mg/day). Side effects include constipation.",
+        "Oral rehydration salts": "A mix of electrolytes and glucose to restore hydration. Dosed per package instructions. Minimal side effects."
+      },
+      "description": "An acute condition often resolving with supportive care but can be severe in vulnerable populations."
+    },
+    {
+      "name": "Rheumatoid Arthritis",
+      "symptoms": "Joint pain, Swelling, Stiffness, Fatigue, Fever",
+      "cause": "Autoimmune response attacking joint tissues",
+      "precautions": "Exercise regularly, Maintain healthy weight, Avoid smoking, Manage stress",
+      "drugs": "Methotrexate, Adalimumab",
+      "drug_descriptions": {
+        "Methotrexate": "A disease-modifying antirheumatic drug (DMARD) that suppresses immune activity. Dosed at 7.5-25 mg weekly. Side effects include nausea and liver toxicity.",
+        "Adalimumab": "A biologic TNF inhibitor reducing inflammation. Administered as 40 mg subcutaneous injection every other week. Side effects include injection site reactions and increased infection risk."
+      },
+      "description": "A chronic autoimmune disease causing joint damage if untreated, manageable with early intervention."
+    },
+    {
+      "name": "Hepatitis B",
+      "symptoms": "Fatigue, Jaundice, Abdominal pain, Nausea, Dark urine",
+      "cause": "Hepatitis B virus (transmitted via blood, sexual contact, or perinatal exposure)",
+      "precautions": "Hepatitis B vaccination, Practice safe sex, Avoid sharing needles, Screen blood products",
+      "drugs": "Tenofovir, Entecavir",
+      "drug_descriptions": {
+        "Tenofovir": "A nucleotide analog that inhibits viral replication. Dosed at 300 mg daily. Side effects include kidney toxicity and bone density loss.",
+        "Entecavir": "An antiviral that reduces viral load. Dosed at 0.5-1 mg daily. Side effects include headache and fatigue."
+      },
+      "description": "A viral infection that can lead to chronic liver disease if untreated, preventable with vaccination."
+    },
+    {
+      "name": "HIV/AIDS",
+      "symptoms": "Fever, Fatigue, Swollen lymph nodes, Weight loss, Night sweats",
+      "cause": "Human Immunodeficiency Virus (HIV)",
+      "precautions": "Practice safe sex, Use clean needles, Regular testing, Pre-exposure prophylaxis (PrEP)",
+      "drugs": "Tenofovir/Emtricitabine, Dolutegravir",
+      "drug_descriptions": {
+        "Tenofovir/Emtricitabine": "A combination nucleoside reverse transcriptase inhibitor used for HIV treatment and prevention. Dosed as one 200/300 mg tablet daily. Side effects include nausea and kidney issues.",
+        "Dolutegravir": "An integrase inhibitor preventing HIV replication. Dosed at 50 mg daily. Common side effects include headache and insomnia."
+      },
+      "description": "A chronic condition manageable with antiretroviral therapy, but untreated leads to severe immune deficiency."
+    },
+    {
+      "name": "Pneumonia",
+      "symptoms": "Cough, Fever, Shortness of breath, Chest pain, Fatigue",
+      "cause": "Bacterial (e.g., Streptococcus pneumoniae), Viral, or Fungal infection",
+      "precautions": "Pneumococcal vaccination, Avoid smoking, Wash hands regularly, Maintain good hygiene",
+      "drugs": "Amoxicillin, Azithromycin",
+      "drug_descriptions": {
+        "Amoxicillin": "A penicillin antibiotic that disrupts bacterial cell wall synthesis. Dosed at 500 mg three times daily for 7-10 days. Side effects include rash and diarrhea.",
+        "Azithromycin": "A macrolide antibiotic inhibiting bacterial protein synthesis. Dosed at 500 mg on day 1, then 250 mg daily for 4 days. Side effects include gastrointestinal upset."
+      },
+      "description": "An infection of the lungs that can be severe in the elderly or immunocompromised, treatable with antibiotics."
+    },
+    {
+      "name": "Chronic Obstructive Pulmonary Disease (COPD)",
+      "symptoms": "Chronic cough, Shortness of breath, Wheezing, Chest tightness",
+      "cause": "Long-term exposure to irritants (e.g., tobacco smoke, air pollution)",
+      "precautions": "Quit smoking, Avoid air pollutants, Use inhalers as prescribed, Regular exercise",
+      "drugs": "Tiotropium, Salmeterol",
+      "drug_descriptions": {
+        "Tiotropium": "A long-acting anticholinergic bronchodilator. Administered as 18 mcg daily via inhaler. Side effects include dry mouth and urinary retention.",
+        "Salmeterol": "A long-acting beta-agonist bronchodilator. Dosed at 50 mcg twice daily via inhaler. Side effects include tremors and palpitations."
+      },
+      "description": "A progressive lung disease manageable with medications and lifestyle changes."
+    },
+    {
+      "name": "Cholera",
+      "symptoms": "Severe diarrhea, Vomiting, Dehydration, Muscle cramps",
+      "cause": "Vibrio cholerae (bacterial infection via contaminated water/food)",
+      "precautions": "Drink safe water, Practice good sanitation, Oral cholera vaccination, Wash hands regularly",
+      "drugs": "Doxycycline, Oral rehydration salts",
+      "drug_descriptions": {
+        "Doxycycline": "A tetracycline antibiotic inhibiting bacterial protein synthesis. Dosed at 300 mg as a single dose for cholera. Side effects include photosensitivity and nausea.",
+        "Oral rehydration salts": "A mix of electrolytes and glucose to restore hydration. Dosed per package instructions. Minimal side effects."
+      },
+      "description": "An acute diarrheal illness that can be fatal without prompt rehydration and treatment."
+    },
+    {
+      "name": "Hepatitis C",
+      "symptoms": "Fatigue, Jaundice, Abdominal pain, Nausea, Joint pain",
+      "cause": "Hepatitis C virus (transmitted via blood exposure)",
+      "precautions": "Avoid sharing needles, Screen blood products, Practice safe sex, Regular testing",
+      "drugs": "Sofosbuvir, Velpatasvir",
+      "drug_descriptions": {
+        "Sofosbuvir": "A nucleotide analog inhibiting HCV polymerase. Dosed at 400 mg daily, often in combination. Side effects include fatigue and headache.",
+        "Velpatasvir": "An NS5A inhibitor used with sofosbuvir. Dosed at 100 mg daily. Common side effects include nausea and insomnia."
+      },
+      "description": "A viral infection that can lead to liver cirrhosis if untreated, curable with modern antivirals."
+    },
+    {
+      "name": "Meningitis",
+      "symptoms": "Fever, Headache, Stiff neck, Nausea, Sensitivity to light",
+      "cause": "Bacterial (e.g., Neisseria meningitidis) or Viral infection",
+      "precautions": "Meningococcal vaccination, Avoid crowded places, Maintain good hygiene",
+      "drugs": "Ceftriaxone, Acyclovir",
+      "drug_descriptions": {
+        "Ceftriaxone": "A third-generation cephalosporin antibiotic for bacterial meningitis. Dosed at 2 g IV every 12 hours. Side effects include rash and diarrhea.",
+        "Acyclovir": "An antiviral for viral meningitis (e.g., herpes-related). Dosed at 10 mg/kg IV every 8 hours. Side effects include kidney issues and nausea."
+      },
+      "description": "A serious infection of the brain and spinal cord membranes, requiring urgent treatment."
+    },
+    {
+      "name": "Typhoid Fever",
+      "symptoms": "Fever, Fatigue, Abdominal pain, Constipation or diarrhea, Rash",
+      "cause": "Salmonella Typhi (bacterial infection via contaminated food/water)",
+      "precautions": "Typhoid vaccination, Drink safe water, Practice good hygiene, Avoid raw foods",
+      "drugs": "Ciprofloxacin, Azithromycin",
+      "drug_descriptions": {
+        "Ciprofloxacin": "A fluoroquinolone antibiotic inhibiting bacterial DNA replication. Dosed at 500 mg twice daily for 7-10 days. Side effects include tendonitis and nausea.",
+        "Azithromycin": "A macrolide antibiotic. Dosed at 500 mg daily for 7 days. Side effects include gastrointestinal upset."
+      },
+      "description": "A systemic bacterial infection preventable with vaccination and hygiene."
+    },
+    {
+      "name": "Leprosy",
+      "symptoms": "Skin lesions, Numbness, Muscle weakness, Nerve damage",
+      "cause": "Mycobacterium leprae (bacterial infection)",
+      "precautions": "Early diagnosis, Avoid close prolonged contact, BCG vaccination (partial protection)",
+      "drugs": "Dapsone, Rifampicin",
+      "drug_descriptions": {
+        "Dapsone": "A sulfone antibiotic inhibiting bacterial folate synthesis. Dosed at 100 mg daily for 6-24 months. Side effects include hemolytic anemia.",
+        "Rifampicin": "A bactericidal antibiotic. Dosed at 600 mg monthly in multidrug therapy. Side effects include liver enzyme elevation."
+      },
+      "description": "A chronic infectious disease affecting skin and nerves, curable with multidrug therapy."
+    },
+    {
+      "name": "Zika Virus",
+      "symptoms": "Fever, Rash, Joint pain, Conjunctivitis, Headache",
+      "cause": "Zika virus (transmitted via Aedes mosquito bites)",
+      "precautions": "Use mosquito nets, Apply insect repellent, Practice safe sex, Avoid travel to outbreak areas",
+      "drugs": "Paracetamol, Supportive care",
+      "drug_descriptions": {
+        "Paracetamol": "An analgesic/antipyretic for symptom relief. Dosed at 500-1000 mg every 4-6 hours (max 4 g/day). Side effects include rare liver toxicity.",
+        "Supportive care": "No specific antiviral; includes rest and hydration."
+      },
+      "description": "A mosquito-borne illness with mild symptoms but risks for pregnant women."
+    },
+    {
+      "name": "Peptic Ulcer Disease",
+      "symptoms": "Abdominal pain, Bloating, Nausea, Vomiting, Loss of appetite",
+      "cause": "Helicobacter pylori infection, NSAID use",
+      "precautions": "Avoid NSAIDs, Stop smoking, Limit alcohol, Manage stress",
+      "drugs": "Omeprazole, Amoxicillin",
+      "drug_descriptions": {
+        "Omeprazole": "A proton pump inhibitor reducing stomach acid. Dosed at 20-40 mg daily for 4-8 weeks. Side effects include headache and diarrhea.",
+        "Amoxicillin": "A penicillin antibiotic for H. pylori eradication. Dosed at 1 g twice daily for 14 days. Side effects include rash."
+      },
+      "description": "A condition causing sores in the stomach or duodenum, treatable with medication."
+    },
+    {
+      "name": "Tetanus",
+      "symptoms": "Muscle stiffness, Jaw locking, Spasms, Fever, Sweating",
+      "cause": "Clostridium tetani (bacterial infection via wounds)",
+      "precautions": "Tetanus vaccination, Clean wounds thoroughly, Avoid rusty objects",
+      "drugs": "Tetanus immunoglobulin, Metronidazole",
+      "drug_descriptions": {
+        "Tetanus immunoglobulin": "Provides immediate passive immunity. Dosed at 250-500 IU intramuscularly. Side effects include injection site pain.",
+        "Metronidazole": "An antibiotic for anaerobic bacteria. Dosed at 500 mg IV every 8 hours. Side effects include nausea and metallic taste."
+      },
+      "description": "A preventable bacterial infection causing severe muscle spasms, requiring urgent care."
+    },
+    {
+      "name": "Ebola Virus Disease",
+      "symptoms": "Fever, Fatigue, Muscle pain, Vomiting, Hemorrhagic symptoms",
+      "cause": "Ebola virus (transmitted via bodily fluids)",
+      "precautions": "Avoid contact with infected individuals, Use protective gear, Safe burial practices",
+      "drugs": "Inmazeb, Supportive care",
+      "drug_descriptions": {
+        "Inmazeb": "A monoclonal antibody cocktail for Ebola treatment. Dosed IV based on protocol. Side effects include fever and chills.",
+        "Supportive care": "Includes fluids and symptom management; no universal antiviral."
+      },
+      "description": "A severe, often fatal viral hemorrhagic fever with high mortality rates."
+    },
+    {
+      "name": "Psoriasis",
+      "symptoms": "Red scaly patches, Itching, Dry skin, Joint pain",
+      "cause": "Autoimmune response, Genetic factors",
+      "precautions": "Moisturize skin, Avoid triggers (stress, infections), Maintain healthy weight",
+      "drugs": "Methotrexate, Adalimumab",
+      "drug_descriptions": {
+        "Methotrexate": "A DMARD suppressing immune activity. Dosed at 7.5-25 mg weekly. Side effects include nausea and liver toxicity.",
+        "Adalimumab": "A TNF inhibitor reducing inflammation. Dosed at 40 mg subcutaneous every other week. Side effects include infection risk."
+      },
+      "description": "A chronic autoimmune skin condition manageable with topical and systemic treatments."
+    },
+    {
+      "name": "Rabies",
+      "symptoms": "Fever, Headache, Muscle spasms, Confusion, Hydrophobia",
+      "cause": "Rabies virus (transmitted via animal bites)",
+      "precautions": "Rabies vaccination, Avoid wild animals, Post-exposure prophylaxis",
+      "drugs": "Rabies immunoglobulin, Rabies vaccine",
+      "drug_descriptions": {
+        "Rabies immunoglobulin": "Provides immediate passive immunity post-exposure. Dosed at 20 IU/kg infiltrated around wound. Side effects include local pain.",
+        "Rabies vaccine": "Active immunization post-exposure. Dosed as 1 mL IM on days 0, 3, 7, 14. Side effects include mild fever."
+      },
+      "description": "A nearly 100% fatal viral infection preventable with prompt post-exposure treatment."
+    },
+    {
+      "name": "Lyme Disease",
+      "symptoms": "Bull’s-eye rash, Fever, Fatigue, Joint pain, Headache",
+      "cause": "Borrelia burgdorferi (bacterial infection via tick bites)",
+      "precautions": "Use tick repellent, Wear protective clothing, Check for ticks after outdoor activities",
+      "drugs": "Doxycycline, Amoxicillin",
+      "drug_descriptions": {
+        "Doxycycline": "A tetracycline antibiotic. Dosed at 100 mg twice daily for 10-21 days. Side effects include photosensitivity.",
+        "Amoxicillin": "A penicillin antibiotic. Dosed at 500 mg three times daily for 14-21 days. Side effects include diarrhea."
+      },
+      "description": "A tick-borne illness treatable with antibiotics but can cause chronic symptoms if untreated."
+    },
+	{
+      "name": "Chandu",
+      "symptoms": "Chandu symptoms",
+      "cause": "Chandu causes",
+      "precautions": "Chandu precautions",
+      "drugs": "Chandu1,Chandu2",
+      "drug_descriptions": {
+        "Chandu1": "Chandu1 drug",
+        "Chandu2": "Chandu2 is very good drug"
+      },
+      "description": "Chandu is a boy"
+    },
+	{
+      "name": "Sampath",
+      "symptoms": "Sampath symptoms",
+      "cause": "Sampath causes",
+      "precautions": "Sampath precautions",
+      "drugs": "Sampath1,Sampath2",
+      "drug_descriptions": {
+        "Sampath1": "Sampath1 drug",
+        "Sampath2": "Sampath2 is very good drug"
+      },
+      "description": "Sampath is a boy"
+    },
+	{
+      "name": "Anil",
+      "symptoms": "Anil symptoms",
+      "cause": "Anil causes",
+      "precautions": "Anil precautions",
+      "drugs": "Anil1,Anil2",
+      "drug_descriptions": {
+        "Anil1": "Anil1 drug",
+        "Anil2": "Anil2 is very good drug"
+      },
+      "description": "Anil is a boy"
+    },{
+      "name": "Uday",
+      "symptoms": "Uday symptoms",
+      "cause": "Uday causes",
+      "precautions": "Uday precautions",
+      "drugs": "Uday1,Uday2",
+      "drug_descriptions": {
+        "Uday1": "Uday 1 drug",
+        "Uday2": "Uday 2 is very good drug"
+      },
+      "description": "Uday is a boy"
+    },
+	{
+    "name": "Arjun",
+    "symptoms": "Arjun symptoms",
+    "cause": "Arjun causes",
+    "precautions": "Arjun precautions",
+    "drugs": "Arjun1,Arjun2",
+    "drug_descriptions": {
+      "Arjun1": "Arjun 1 drug",
+      "Arjun2": "Arjun 2 is very good drug"
+    },
+    "description": "Arjun is a boy"
+  },
+  {
+    "name": "Meera",
+    "symptoms": "Meera symptoms",
+    "cause": "Meera causes",
+    "precautions": "Meera precautions",
+    "drugs": "Meera1,Meera2",
+    "drug_descriptions": {
+      "Meera1": "Meera 1 drug",
+      "Meera2": "Meera 2 is very good drug"
+    },
+    "description": "Meera is a girl"
+  },
+  {
+    "name": "Rohan",
+    "symptoms": "Rohan symptoms",
+    "cause": "Rohan causes",
+    "precautions": "Rohan precautions",
+    "drugs": "Rohan1,Rohan2",
+    "drug_descriptions": {
+      "Rohan1": "Rohan 1 drug",
+      "Rohan2": "Rohan 2 is very good drug"
+    },
+    "description": "Rohan is a boy"
+  },
+  {
+    "name": "Sanya",
+    "symptoms": "Sanya symptoms",
+    "cause": "Sanya causes",
+    "precautions": "Sanya precautions",
+    "drugs": "Sanya1,Sanya2",
+    "drug_descriptions": {
+      "Sanya1": "Sanya 1 drug",
+      "Sanya2": "Sanya 2 is very good drug"
+    },
+    "description": "Sanya is a girl"
+  },
+  {
+    "name": "Kiran",
+    "symptoms": "Kiran symptoms",
+    "cause": "Kiran causes",
+    "precautions": "Kiran precautions",
+    "drugs": "Kiran1,Kiran2",
+    "drug_descriptions": {
+      "Kiran1": "Kiran 1 drug",
+      "Kiran2": "Kiran 2 is very good drug"
+    },
+    "description": "Kiran is a person"
+  },
+  {
+    "name": "Ananya",
+    "symptoms": "Ananya symptoms",
+    "cause": "Ananya causes",
+    "precautions": "Ananya precautions",
+    "drugs": "Ananya1,Ananya2",
+    "drug_descriptions": {
+      "Ananya1": "Ananya 1 drug",
+      "Ananya2": "Ananya 2 is very good drug"
+    },
+    "description": "Ananya is a girl"
+  },
+  {
+    "name": "Vikram",
+    "symptoms": "Vikram symptoms",
+    "cause": "Vikram causes",
+    "precautions": "Vikram precautions",
+    "drugs": "Vikram1,Vikram2",
+    "drug_descriptions": {
+      "Vikram1": "Vikram 1 drug",
+      "Vikram2": "Vikram 2 is very good drug"
+    },
+    "description": "Vikram is a boy"
+  },
+  {
+    "name": "Nisha",
+    "symptoms": "Nisha symptoms",
+    "cause": "Nisha causes",
+    "precautions": "Nisha precautions",
+    "drugs": "Nisha1,Nisha2",
+    "drug_descriptions": {
+      "Nisha1": "Nisha 1 drug",
+      "Nisha2": "Nisha 2 is very good drug"
+    },
+    "description": "Nisha is a girl"
+  },
+  {
+    "name": "Dev",
+    "symptoms": "Dev symptoms",
+    "cause": "Dev causes",
+    "precautions": "Dev precautions",
+    "drugs": "Dev1,Dev2",
+    "drug_descriptions": {
+      "Dev1": "Dev 1 drug",
+      "Dev2": "Dev 2 is very good drug"
+    },
+    "description": "Dev is a boy"
+  },
+  {
+    "name": "Pooja",
+    "symptoms": "Pooja symptoms",
+    "cause": "Pooja causes",
+    "precautions": "Pooja precautions",
+    "drugs": "Pooja1,Pooja2",
+    "drug_descriptions": {
+      "Pooja1": "Pooja 1 drug",
+      "Pooja2": "Pooja 2 is very good drug"
+    },
+    "description": "Pooja is a girl"
+  },
+  {
+    "name": "Ravi",
+    "symptoms": "Ravi symptoms",
+    "cause": "Ravi causes",
+    "precautions": "Ravi precautions",
+    "drugs": "Ravi1,Ravi2",
+    "drug_descriptions": {
+      "Ravi1": "Ravi 1 drug",
+      "Ravi2": "Ravi 2 is very good drug"
+    },
+    "description": "Ravi is a boy"
+  },
+  {
+    "name": "Rakesh",
+    "symptoms": "Rakesh symptoms",
+    "cause": "Rakesh causes",
+    "precautions": "Rakesh precautions",
+    "drugs": "Rakesh1,Rakesh2",
+    "drug_descriptions": {
+      "Rakesh1": "Rakesh 1 drug",
+      "Rakesh2": "Rakesh 2 is very good drug"
+    },
+    "description": "Rakesh is a boy"
+  },
+  {
+    "name": "Teja",
+    "symptoms": "Teja symptoms",
+    "cause": "Teja causes",
+    "precautions": "Teja precautions",
+    "drugs": "Teja1,Teja2",
+    "drug_descriptions": {
+      "Teja1": "Teja 1 drug",
+      "Teja2": "Teja 2 is very good drug"
+    },
+    "description": "Teja is a boy"
+  },
+  {
+    "name": "Rathish",
+    "symptoms": "Rathish symptoms",
+    "cause": "Rathish causes",
+    "precautions": "Rathish precautions",
+    "drugs": "Rathish1,Rathish2",
+    "drug_descriptions": {
+      "Rathish1": "Rathish 1 drug",
+      "Rathish2": "Rathish 2 is very good drug"
+    },
+    "description": "Rathish is a boy"
+  },
+  {
+    "name": "Abhishek",
+    "symptoms": "Abhishek symptoms",
+    "cause": "Abhishek causes",
+    "precautions": "Abhishek precautions",
+    "drugs": "Abhishek1,Abhishek2",
+    "drug_descriptions": {
+      "Abhishek1": "Abhishek 1 drug",
+      "Abhishek2": "Abhishek 2 is very good drug"
+    },
+    "description": "Abhishek is a boy"
+  },
+  {
+    "name": "Rajesh",
+    "symptoms": "Rajesh symptoms",
+    "cause": "Rajesh causes",
+    "precautions": "Rajesh precautions",
+    "drugs": "Rajesh1,Rajesh2",
+    "drug_descriptions": {
+      "Rajesh1": "Rajesh 1 drug",
+      "Rajesh2": "Rajesh 2 is very good drug"
+    },
+    "description": "Rajesh is a boy"
+  },
+  {
+    "name": "Santosh",
+    "symptoms": "Santosh symptoms",
+    "cause": "Santosh causes",
+    "precautions": "Santosh precautions",
+    "drugs": "Santosh1,Santosh2",
+    "drug_descriptions": {
+      "Santosh1": "Santosh 1 drug",
+      "Santosh2": "Santosh 2 is very good drug"
+    },
+    "description": "Santosh is a boy"
+  },
+  {
+    "name": "Anjali",
+    "symptoms": "Anjali symptoms",
+    "cause": "Anjali causes",
+    "precautions": "Anjali precautions",
+    "drugs": "Anjali1,Anjali2",
+    "drug_descriptions": {
+      "Anjali1": "Anjali 1 drug",
+      "Anjali2": "Anjali 2 is very good drug"
+    },
+    "description": "Anjali is a girl"
+  },
+  {
+    "name": "Naveen",
+    "symptoms": "Naveen symptoms",
+    "cause": "Naveen causes",
+    "precautions": "Naveen precautions",
+    "drugs": "Naveen1,Naveen2",
+    "drug_descriptions": {
+      "Naveen1": "Naveen 1 drug",
+      "Naveen2": "Naveen 2 is very good drug"
+    },
+    "description": "Naveen is a boy"
+  },
+  {
+    "name": "Sneha",
+    "symptoms": "Sneha symptoms",
+    "cause": "Sneha causes",
+    "precautions": "Sneha precautions",
+    "drugs": "Sneha1,Sneha2",
+    "drug_descriptions": {
+      "Sneha1": "Sneha 1 drug",
+      "Sneha2": "Sneha 2 is very good drug"
+    },
+    "description": "Sneha is a girl"
+  }
+  ]

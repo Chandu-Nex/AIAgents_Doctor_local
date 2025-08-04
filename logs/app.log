@@ -1,0 +1,288 @@
+2025-08-03 01:18:56,161 - INFO - Use pytorch device_name: cpu
+2025-08-03 01:18:56,161 - INFO - Load pretrained SentenceTransformer: pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb
+2025-08-03 01:19:03,622 - INFO - Use pytorch device_name: cpu
+2025-08-03 01:19:03,623 - INFO - Load pretrained SentenceTransformer: pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb
+2025-08-03 01:24:01,501 - INFO - Processed query: Fever
+2025-08-03 01:35:11,084 - INFO - Processed query: Headace
+2025-08-03 01:41:14,074 - INFO - Processed query: HIV
+2025-08-03 02:02:03,194 - INFO - Processed query: Fever
+2025-08-03 03:00:54,343 - INFO - Processed query: Previous conversation:
+1. Patient: Iam suffering from fever
+
+Current user input: Iam suffering from fever
+2025-08-03 03:23:45,592 - INFO - Processed query: Previous conversation:
+1. Patient: Iam suffering from fever
+2. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+3. Patient: Fever
+
+Current user input: Fever
+2025-08-03 03:30:27,683 - INFO - Processed query: Previous conversation:
+1. Patient: Fever
+
+Current user input: Fever
+2025-08-03 04:11:59,531 - INFO - Processed query: Previous conversation:
+1. Patient: Fever
+2. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+3. Patient: hlo
+
+Current user input: hlo
+2025-08-03 04:14:31,769 - INFO - Processed query: Previous conversation:
+1. Patient: Fever
+2. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+3. Patient: hlo
+4. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+5. Patient: Fever
+
+Current user input: Fever
+2025-08-03 04:21:38,603 - INFO - Processed query: Previous conversation:
+1. Patient: Fever
+2. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+3. Patient: hlo
+4. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+5. Patient: Fever
+6. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+7. Patient: I have fever
+
+Current user input: I have fever
+2025-08-03 04:37:58,551 - INFO - Processed query: Previous conversation:
+1. Patient: I have fever?
+
+Current user input: I have fever?
+2025-08-03 04:39:41,730 - INFO - Processed query: Previous conversation:
+1. Patient: hi
+2. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+3. Patient: chandu
+4. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+5. Patient: chandu
+6. Dr. AI: I apologize, but there was an internal server error. Please try again in a few moments.
+7. Patient: chandu
+
+Current user input: chandu
+2025-08-03 04:43:37,515 - INFO - Processed query: Previous conversation:
+1. Patient: hi
+2. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+3. Patient: chandu
+4. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+5. Patient: chandu
+6. Dr. AI: I apologize, but there was an internal server error. Please try again in a few moments.
+7. Patient: chandu
+
+Current user input: chandu
+2025-08-03 04:44:51,251 - INFO - Processed query: Current user input: I have a fever
+2025-08-03 04:46:27,600 - INFO - Processed query: Previous conversation:
+1. Patient: hi
+2. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+3. Patient: chandu
+4. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+5. Patient: chandu
+6. Dr. AI: I apologize, but there was an internal server error. Please try again in a few moments.
+7. Patient: chandu
+
+Current user input: chandu
+2025-08-03 04:50:13,813 - INFO - Processed query: Previous conversation:
+1. Patient: I have fever?
+2. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+3. Patient: I have fever?
+
+Current user input: I have fever?
+2025-08-03 04:56:40,745 - INFO - Processed query: Previous conversation:
+1. Patient: I have fever?
+
+Current user input: I have fever?
+2025-08-03 05:06:09,509 - INFO - Processed query: Previous conversation:
+1. Patient: I have fever?
+2. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+3. Patient: I have fever
+
+Current user input: I have fever
+2025-08-03 05:10:06,470 - INFO - Processed query: Previous conversation:
+1. Patient: I have fever?
+2. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+3. Patient: I have fever
+4. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+5. Patient: i have fever
+6. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+7. Patient: i have fever
+
+Current user input: i have fever
+2025-08-03 05:16:08,063 - INFO - Processed query: Previous conversation:
+1. Patient: I have fever?
+2. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+3. Patient: I have fever
+4. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+5. Patient: i have fever
+6. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+7. Patient: i have fever
+8. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+9. Patient: i have fever
+
+Current user input: i have fever
+2025-08-03 05:23:57,492 - INFO - Processed query: Previous conversation:
+1. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+2. Patient: I have fever
+3. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+4. Patient: i have fever
+5. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+6. Patient: i have fever
+7. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+8. Patient: i have fever
+9. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+10. Patient: i have fever
+
+Current user input: i have fever
+2025-08-03 05:30:22,879 - INFO - Processed query: Previous conversation:
+1. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+2. Patient: i have fever
+3. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+4. Patient: i have fever
+5. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+6. Patient: i have fever
+7. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+8. Patient: i have fever
+9. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+10. Patient: i have fever
+
+Current user input: i have fever
+2025-08-03 05:41:15,292 - INFO - Processed query: Previous conversation:
+1. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+2. Patient: i have fever
+3. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+4. Patient: i have fever
+5. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+6. Patient: i have fever
+7. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+8. Patient: i have fever
+9. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+10. Patient: i have fever
+
+Current user input: i have fever
+2025-08-03 05:49:26,801 - INFO - Processed query: Previous conversation:
+1. Patient: Hiiii
+
+Current user input: Hiiii
+2025-08-03 05:55:01,649 - INFO - Processed query: Previous conversation:
+1. Patient: Hiiii
+2. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+3. Patient: i have fever
+4. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+5. Patient: i have fever
+6. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+7. Patient: i have fever
+
+Current user input: i have fever
+2025-08-03 05:58:34,728 - INFO - Processed query: Previous conversation:
+1. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+2. Patient: i have fever
+3. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+4. Patient: i have fever
+5. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+6. Patient: i have fever
+7. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+8. Patient: i have
+9. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+10. Patient: i have fever
+
+Current user input: i have fever
+2025-08-04 11:29:15,415 - INFO - Use pytorch device_name: cpu
+2025-08-04 11:29:15,415 - INFO - Load pretrained SentenceTransformer: pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb
+2025-08-04 11:29:30,006 - INFO - Use pytorch device_name: cpu
+2025-08-04 11:29:30,006 - INFO - Load pretrained SentenceTransformer: pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb
+2025-08-04 11:31:14,468 - INFO - Processed query: Chandu
+2025-08-04 12:19:56,446 - INFO - Processed query: Chandu
+2025-08-04 12:20:18,372 - INFO - Processed query: Fever
+2025-08-04 12:35:30,688 - INFO - Processed query: 
+2025-08-04 12:37:11,170 - INFO - Processed query: Fever
+2025-08-04 12:47:46,263 - INFO - Processed query: Chandu
+2025-08-04 12:55:46,235 - INFO - Processed query: Chandu
+2025-08-04 12:58:12,887 - INFO - Processed query: Rakesh
+2025-08-04 13:03:56,311 - INFO - Processed query: fever
+2025-08-04 13:04:51,955 - INFO - Processed query: Iam suffering from fever
+2025-08-04 13:10:04,136 - INFO - Processed query: My temperature is 101^F 
+2025-08-04 13:30:26,362 - INFO - Processed query: Previous conversation:
+1. Patient: hi
+2. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+3. Patient: hi
+4. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+5. Patient: hi
+
+Current user input: hi
+2025-08-04 13:30:31,803 - INFO - Processed query: Previous conversation:
+1. Patient: Fever
+
+Current user input: Fever
+2025-08-04 13:33:53,468 - INFO - Use pytorch device_name: cpu
+2025-08-04 13:33:53,468 - INFO - Load pretrained SentenceTransformer: pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb
+2025-08-04 13:38:24,136 - INFO - Loading embedding model: pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb
+2025-08-04 13:38:24,140 - INFO - Use pytorch device_name: cpu
+2025-08-04 13:38:24,141 - INFO - Load pretrained SentenceTransformer: pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb
+2025-08-04 13:38:29,316 - INFO - Encoding 189 medical chunks...
+2025-08-04 13:38:58,723 - INFO - Saved embeddings to: ./RAG/embeddings\20250804_133829_embeddings.npy
+2025-08-04 13:38:58,723 - INFO - Embeddings shape: (189, 768)
+2025-08-04 13:41:30,981 - ERROR - ❌ Error during upsert: [Errno 2] No such file or directory: './RAG/embeddings/20250804_133829_embeddings.npy.npy'
+2025-08-04 13:41:46,489 - INFO - 🔢 Preparing to upsert 189 vectors to Pinecone...
+2025-08-04 13:41:54,358 - INFO - 📤 Upserted batch 0–100
+2025-08-04 13:41:57,892 - INFO - 📤 Upserted batch 100–189
+2025-08-04 13:41:57,894 - INFO - ✅ All vectors upserted in 11.4s
+2025-08-04 13:42:43,607 - INFO - Processed query: Insomnia
+2025-08-04 13:43:33,288 - INFO - Processed query: chandu
+2025-08-04 13:50:18,090 - INFO - Processed query: Previous conversation:
+1. Patient: I am suffering from fever?
+
+Current user input: I am suffering from fever?
+2025-08-04 13:53:33,337 - ERROR - ❌ Error during upsert: [Errno 2] No such file or directory: './RAG/embeddings/20250804_133829_embeddings.npy.npy'
+2025-08-04 13:53:49,207 - INFO - 🔢 Preparing to upsert 189 vectors to Pinecone...
+2025-08-04 13:53:52,786 - INFO - 📤 Upserted batch 0–100
+2025-08-04 13:53:54,445 - INFO - 📤 Upserted batch 100–189
+2025-08-04 13:53:54,445 - INFO - ✅ All vectors upserted in 5.24s
+2025-08-04 13:53:54,665 - INFO - 📦 Total vectors in Pinecone: 1137
+2025-08-04 13:54:09,642 - INFO - Processed query: chandu
+2025-08-04 13:55:52,732 - INFO - Processed query: Urinary Tract Infections
+2025-08-04 14:02:11,020 - INFO - Processed query: Previous conversation:
+1. Patient: I am suffering from fever
+
+Current user input: I am suffering from fever
+2025-08-04 14:06:29,730 - INFO - Processed query: Previous conversation:
+1. Patient: I am suffering from fever
+2. Dr. AI: CLARIFICATION_NEEDED
+3. Patient: Fever
+
+Current user input: Fever
+2025-08-04 14:19:00,486 - INFO - Processed query: Previous conversation:
+1. Patient: hi
+2. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+3. Patient: hi
+4. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+5. Patient: hi
+6. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+7. Patient: Fever
+
+Current user input: Fever
+2025-08-04 14:40:45,331 - INFO - Processed query: Previous conversation:
+1. Patient: hi
+2. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+3. Patient: hi
+4. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+5. Patient: hi
+6. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+7. Patient: Fever
+8. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+9. Patient: fever
+
+Current user input: fever
+2025-08-04 14:46:31,186 - INFO - Processed query: Previous conversation:
+1. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+2. Patient: hi
+3. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+4. Patient: hi
+5. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+6. Patient: Fever
+7. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+8. Patient: fever
+9. Dr. AI: I apologize, but I encountered an error processing your request. Please try again.
+10. Patient: fever
+
+Current user input: fever
+2025-08-04 14:54:19,832 - INFO - Processed query: Previous conversation:
+1. Patient: Fever
+
+Current user input: Fever
