@@ -23,8 +23,8 @@ logging.basicConfig(
 # Constants
 INDEX_NAME = "medical-rag-index"
 EMBEDDING_DIM = 768
-CHUNKS_FILE = "./RAG/chunks/20250804_132718_chunks.json"
-EMBEDDINGS_FILE = "./RAG/embeddings/20250804_133829_embeddings.npy"
+CHUNKS_FILE = "./RAG/chunks/20250804_221234_chunks.json"
+EMBEDDINGS_FILE = "./RAG/embeddings/20250804_221349_embeddings.npy"
 
 # Initialize Pinecone
 pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))

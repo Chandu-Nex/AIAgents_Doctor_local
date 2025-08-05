@@ -25,7 +25,7 @@ logging.info(f"Loading embedding model: {MODEL_NAME}")
 model = SentenceTransformer(MODEL_NAME)
 
 # File paths
-CHUNK_FILE = "./RAG/chunks/20250804_132718_chunks.json"
+CHUNK_FILE = "./RAG/chunks/20250804_221234_chunks.json"
 EMBED_DIR = "./RAG/embeddings"
 EMBED_FILE = os.path.join(EMBED_DIR, f"{datetime.now().strftime('%Y%m%d_%H%M%S')}_embeddings.npy")
 
